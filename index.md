@@ -16,6 +16,9 @@ Welcome to this information hub for open research practices at the School of Phi
 
 ## What is Open Research
 
+Hello Alex!
+
+
 Open Research is transparent and accessible knowledge that is shared and developed through collaborative networks (Vicente-Sáez & Martínez-Fuentes 2018).
 
 ![](assets/images/ResearchCycle.png)
