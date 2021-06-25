@@ -33,7 +33,7 @@ Open access is the model under which papers are available for anyone to read wit
 An open methodology is to allow other researchers to repeat the work and apply it elsewhere.
 
 - Pre-registration
-  - OSF/As.predicted
+  - OSF/[As.predicted]<https://aspredicted.org/>
 
 ## Open software and source
 
