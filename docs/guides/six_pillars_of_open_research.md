@@ -26,14 +26,22 @@ Open data is the process of releasing both raw and processed data from your expe
 
 Open access is the model under which papers are available for anyone to read without having to pay, and that license allows secondary use such as text-mining.
 
-- Platforms?
+**Platinum/Diamond Open Access**
+- Freely available from publisher
+- No payment of a subscription fee or licence
+**Gold Open Access**
+- Freely available from publisher
+- Author pays a fee (article processing charge – APC)
+**Green Open Access**
+- Made available by author(s)
+Here you will find a list of [platinum Open Access journals](https://oaling.wordpress.com)
 
 ## Open methodology
 
 An open methodology is to allow other researchers to repeat the work and apply it elsewhere.
 
 - Pre-registration
-  - OSF/[As.predicted]<https://aspredicted.org/>
+  - [OSF](https://www.cos.io/initiatives/prereg)/[As.predicted](https://aspredicted.org/)
 
 ## Open software and source
 
