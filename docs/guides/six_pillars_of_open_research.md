@@ -44,7 +44,8 @@ Here you will find a list of [platinum Open Access journals](https://oaling.word
 An open methodology is to allow other researchers to repeat the work and apply it elsewhere.
 
 - Pre-registration
-  - [OSF](https://www.cos.io/initiatives/prereg)/[As.predicted](https://aspredicted.org/)
+  - [OSF](https://www.cos.io/initiatives/prereg)
+  - [As.predicted](https://aspredicted.org/)
 
 ## Open software and source
 
