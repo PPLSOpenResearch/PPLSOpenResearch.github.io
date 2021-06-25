@@ -29,12 +29,15 @@ Open access is the model under which papers are available for anyone to read wit
 **Platinum/Diamond Open Access**
 - Freely available from publisher
 - No payment of a subscription fee or licence
+
 **Gold Open Access**
 - Freely available from publisher
 - Author pays a fee (article processing charge – APC)
+
 **Green Open Access**
 - Made available by author(s)
-Here you will find a list of [platinum Open Access journals](https://oaling.wordpress.com)
+
+Here you will find a list of [platinum Open Access journals](https://oaling.wordpress.com) in linguistics
 
 ## Open methodology
 
