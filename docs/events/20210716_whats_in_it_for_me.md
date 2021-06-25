@@ -14,4 +14,4 @@ July 16th, 10:30am-12:00 (BST)
 
 Dr. Jonas Nölle (University of Glasgow)
 
-## Registeration
+## Registration
