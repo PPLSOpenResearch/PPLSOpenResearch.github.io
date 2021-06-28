@@ -30,6 +30,8 @@ Research should be transparent, reusable, available & free.
 ---
 
 ![]({{ site.baseurl }}{% link assets/images/ResearchCycle.png %})
+*Image source: https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-concepts-and-principles*
+{: .fs-2 .fw-300 }
 
 ---
 

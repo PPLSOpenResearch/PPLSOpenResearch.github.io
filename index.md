@@ -19,9 +19,10 @@ Welcome to this information hub for open research practices at the School of Phi
 Open Research is transparent and accessible knowledge that is shared and developed through collaborative networks (Vicente-Sáez & Martínez-Fuentes 2018).
 
 ![](assets/images/ResearchCycle.png)
+*Image source: https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-concepts-and-principles*
+{: .fs-2 .fw-300 }
 
 [Read more]({{ site.baseurl }}{% link docs/guides/principles_and_practices.md %})
-
 
 ---
 
