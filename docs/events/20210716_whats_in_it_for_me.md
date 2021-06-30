@@ -21,4 +21,4 @@ If you want to gain an overview of Open Research before the event check out our 
 
 ## Registration
 
-https://www.eventbrite.co.uk/e/open-research-whats-in-it-for-me-tickets-161742027759
+[https://www.eventbrite.co.uk/e/open-research-whats-in-it-for-me-tickets-161742027759](https://www.eventbrite.co.uk/e/open-research-whats-in-it-for-me-tickets-161742027759)
