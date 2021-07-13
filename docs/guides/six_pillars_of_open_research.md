@@ -69,3 +69,5 @@ Open peer review is about transforming the peer review process; it is about maki
 Open education refers to the open and free availability of educational resources. This does not mean that you cannot charge for education - no one can make the tutor work for free - but the resources that are used to educate can be made freely available.
 
 ---
+
+[Next: Open Access publication]({{ site.baseurl }}{% link docs/guides/oa_pub.md %})
