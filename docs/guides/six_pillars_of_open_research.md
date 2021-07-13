@@ -37,7 +37,9 @@ Open access is the model under which papers are available for anyone to read wit
 **Green Open Access**
 - Made available by author(s)
 
-Here you will find a list of [platinum Open Access journals](https://oaling.wordpress.com) in linguistics
+[More on Open Access publication]({{ site.baseurl }}{% link docs/guides/oa_pub.md %})
+{: .btn }
+<!-- Here you will find a list of [platinum Open Access journals](https://oaling.wordpress.com) in linguistics -->
 
 ## Open methodology
 
