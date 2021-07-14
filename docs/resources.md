@@ -28,6 +28,7 @@ nav_order: 4
 
 ## Open data
 
+- [University research data service](https://www.ed.ac.uk/information-services/research-support/research-data-service)
 - <https://www.ukdataservice.ac.uk/manage-data/handbook>
 - <https://www.nature.com/articles/sdata201618>
 - <https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide>

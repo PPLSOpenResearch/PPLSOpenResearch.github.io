@@ -22,6 +22,8 @@ Open data is the process of releasing both raw and processed data from your expe
   - Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker - images, or other analysis materials or software dependencies.
 - Licensing data
 
+Check out more on [University research data service](https://www.ed.ac.uk/information-services/research-support/research-data-service)
+
 ## Open access
 
 Open access is the model under which papers are available for anyone to read without having to pay, and that license allows secondary use such as text-mining.
