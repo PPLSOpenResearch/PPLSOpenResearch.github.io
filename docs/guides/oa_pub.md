@@ -25,6 +25,7 @@ nav_order: 3
 
 - Linguistics: <https://oaling.wordpress.com>
 - Psychology: <https://open-access.net/en/open-access-in-individual-disciplines/psychology>
+- Check journals policies: <https://v2.sherpa.ac.uk/romeo/>
 
 ---
 
@@ -44,6 +45,10 @@ nav_order: 3
 - [SocArxiv](https://osf.io/preprints/socarxiv)
 - [OSF](https://osf.io/)
 - [Pure (University of Edinburgh)](https://www.ed.ac.uk/information-services/research-support/research-information-management/pure)
+
+## Other
+
+- All non-embargoed doctoral thesis will be published on [ERA](https://era.ed.ac.uk/handle/1842/154)
 
 ---
 
