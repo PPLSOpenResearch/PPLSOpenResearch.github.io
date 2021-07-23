@@ -16,3 +16,7 @@ September 10th, 10:30am-12:00 (BST)
 - How does the univeristy support open data sharing?
 
 This workshop aims to answer these questions and any others you have about sharing data and choosing licences.
+
+## Registration
+
+*Registration link will be available two weeks before the event.*

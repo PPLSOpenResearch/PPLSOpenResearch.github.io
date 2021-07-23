@@ -23,3 +23,7 @@ In this workshop, you will learn:
 This event will be hands-on, with a lot of live coding demonstrations.
 You are encouraged to code along with us.
 Don't panic, it will be fun!
+
+## Registration
+
+*Registration link will be available two weeks before the event.*

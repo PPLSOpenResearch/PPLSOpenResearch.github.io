@@ -16,3 +16,7 @@ In this workshop we will briefly discuss what a pre-registration is and what it'
 - Work on your own As.predicted pre-registration for your own research
 
 In both cases you will be able to interact with fellow researchers, and we are there along the way to answer all questions you might have!
+
+## Registration
+
+*Registration link will be available two weeks before the event.*
