@@ -19,4 +19,4 @@ In both cases you will be able to interact with fellow researchers, and we are t
 
 ## Registration
 
-*Registration link will be available two weeks before the event.*
+<https://www.eventbrite.co.uk/e/ppls-open-research-event2-pre-registration-tickets-163972727843>
