@@ -52,4 +52,4 @@ nav_order: 3
 
 ---
 
-<!-- [Next: Six pillars of open research]({{ site.baseurl }}{% link docs/guides/six_pillars_of_open_research.md %}) -->
+[Next: Github Tutorial]({{ site.baseurl }}{% link docs/guides/github.md %})
