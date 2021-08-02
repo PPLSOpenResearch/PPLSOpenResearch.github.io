@@ -85,7 +85,7 @@ Some basic GIT commands you will learn later include: `git init`, `git add`, `gi
 * [GIT Tutorial for beginners (Youtube)](https://www.youtube.com/watch?v=HVsySz-h9r4)
 * [Introduction to GIT - Core Concepts (Youtube)](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [GIT & GitHub Crash Course (Youtube)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-* [Git Playground](https://git-school.github.io/visualizing-git/)
+* [GIT Playground](https://git-school.github.io/visualizing-git/)
 
 ## Safe connection
 
@@ -147,7 +147,7 @@ Whenever you want to update your repository, repeat steps 2, 3 and 5. You can th
 
 Note that Github also has a desktop app that helps you manage repository update without command line: <https://desktop.github.com>.
 
-One of my favorite meme about Github:
+One of my favorite memes about Github:
 
 ![]({{ site.baseurl }}{% link assets/images/github_meme.png %})
 
