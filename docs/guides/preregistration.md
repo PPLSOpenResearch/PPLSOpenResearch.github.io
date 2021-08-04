@@ -29,14 +29,14 @@ nav_order: 4
 ### OSF preregistration
 
 * You have to register an account at [OSF](https://osf.io/dashboard) to do a preregistration over OSF.
-* OSF makes it very easy to combine everything, your preprints, publication, data and code which is why it makes sense to have an OSF account
-*	You can start a preregistration either [here](https://osf.io/prereg/) by creating a new project and clicking on “registrations” on the top and then “new registration” on the top right corner
-*	For more information on how to create a preregistration, see [here](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration)
-*	When starting a preregistration you can choose between different types of preregistrations depending on your preferences and what type of study you want to preregister (OSF/ As.predicted/ Qualitative data preregistration)
+* OSF makes it very easy to combine everything, your preprints, publication, data and code.
+*	You can start a preregistration either [here](https://osf.io/prereg/) or by creating a new project and selecting “registrations” (on the top) and then “new registration” (top right corner). 
+*	For more information on how to create a preregistration, see [here](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration).
+*	When starting a preregistration you can choose between different types of preregistrations depending on your preferences and what type of study you want to preregister (OSF/ As.Predicted/ Qualitative data preregistration)
 
 ### As.Predicted preregistration
 
-*	You can submit a preregistration in the form of ae as.predicted preregistration at the OSF platform, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
+*	You can submit a preregistration in the form of the As.Predicted preregistration at the OSF platform, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
 *	You can start an as.predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account. 
 
 ### Registered Reports
@@ -49,7 +49,7 @@ This [link](https://help.osf.io/hc/en-us/articles/360019930913-Submit-a-Register
 ## Further Resources
 
 * For an overview, further resources and FAQs on preregistrations go [here](https://www.cos.io/initiatives/prereg).
-* You can also find a number of useful [templates](https://osf.io/zab38/wiki/home/?view) and examples [here](https://osf.io/registries) and [here](https://osf.io/e6auq/wiki/Example%20Preregistrations/?view)
+* You can also find a number of useful [templates](https://osf.io/zab38/wiki/home/?view) and examples [here](https://osf.io/registries) and [here](https://osf.io/e6auq/wiki/Example%20Preregistrations/?view).
 
 ---
 
