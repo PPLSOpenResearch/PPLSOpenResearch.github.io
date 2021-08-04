@@ -52,4 +52,4 @@ nav_order: 3
 
 ---
 
-[Next: Preregistration Guide]({{ site.baseurl }}{% link docs/guides/Preregistration.md %})
+[Next: Preregistration Guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %})
