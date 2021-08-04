@@ -48,7 +48,7 @@ nav_order: 4
 
 ### Registered Reports
 
-You can find out more about registered reports, participating journals, details & the workflow look [here](https://www.cos.io/initiatives/registered-reports).
+You can find out more about registered reports and participating journals [here](https://www.cos.io/initiatives/registered-reports).
 
 This [link](https://help.osf.io/hc/en-us/articles/360019930913-Submit-a-Registered-Report) will give you more information on how to start with your registered report.
 
