@@ -28,9 +28,8 @@ Preregistration is the practice of registering the hypotheses, methods, and/or a
 <details markdown="block">
 <summary>More</summary>
   
-  Preregistration separates *hypothesis-generating* (exploratory) from *hypothesis-testing* (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it.
-  
-Research can be considered on a dimension from exploratory to confirmatory. **Pre-registration enables confirmatory hypothesis testing**, which allows researchers to have a higher level of confidence in their findings, but there is lots of value in exploratory research. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. 
+  Preregistration separates *hypothesis-generating* (exploratory) from *hypothesis-testing* (confirmatory) research. Both are important. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research.
+Thus, **preregistration enables confirmatory hypothesis testing**, which allows you to have a higher level of confidence in your findings helps others who may wish to build on it. 
 
 | Confirmatory Research                       |  Exploratory Research                                              |
 |:--------------------------------------------|:-------------------------------------------------------------------|
