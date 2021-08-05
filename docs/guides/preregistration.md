@@ -23,7 +23,25 @@ nav_order: 4
 
 ## What is a preregistration?
 
+Preregistration is the practice of registering the hypotheses, methods, and/or analyses of a scientific study before it is conducted. So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.predicted). 
 
+<details markdown="block">
+<summary>More</summary>
+  
+  Preregistration separates hypothesis-generating (exploratory) from hypothesis-testing (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it.
+  
+Research can be considered on a dimension from exploratory to confirmatory. Pre-registration enables confirmatory hypothesis testing, which allows researchers to have a higher level of confidence in their findings, but there is lots of value in exploratory research. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. 
+
+| Confirmatory Research                       |  Exploratory Research                                              |
+|:-------------------------------------------:|-------------------------------------------------------------------:|
+| Hypothesis testing                          |  Hypothesis generating                                             |
+| Data-independent                            |  Data-dependent                                                    |
+| Minimizes false positives| right-aligned    |  Minimizes false negatives in order to find unexpected discoveries |
+| P-values retain diagnostic value            |  P-values lose diagnostic value                                    |
+| Inferences may be drawn to wider population |  Not useful for making inferences to any wider population          |  
+
+</details>  
+  
 ## Starting with your preregistration
 
 ### OSF preregistration
