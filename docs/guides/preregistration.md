@@ -23,7 +23,8 @@ nav_order: 4
 
 ## What is a preregistration?
 
-Preregistration is the practice of registering the hypotheses, methods, and/or analyses of a scientific study before it is conducted. So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.predicted). 
+Preregistration is the practice of registering the hypotheses, methods, and/or analyses of a scientific study before it is conducted and involves creating a time-stamped record of the study and analysis plan.
+So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.predicted). 
 
 <details markdown="block">
 <summary>More</summary>
@@ -41,20 +42,23 @@ Preregistration is the practice of registering the hypotheses, methods, and/or a
 | Inferences may be drawn to wider population |  Not useful for making inferences to any wider population          |  
 
 </details>  
-  
+
+## What is the Open Science Framework (OSF)?
+
+[OSF](https://www.osf.io) is a free, open source web application that connects and supports your workflow. You can use OSF to collaborate, document, archive, share, and register your research projects, materials, and data. OSF is the product of the non-profit [Center for Open Science](https://www.cos.io/). It is also very easy to integrate your OSF projects with GitHub or Dropbox. You can learn more about OSF [here](https://osf.io/4znzp/wiki/home/) and by browsing through their website.
+
 ## Starting with your preregistration
 
 ### OSF preregistration
 
-* You have to register an account at [OSF](https://osf.io/dashboard) to do a preregistration over OSF.
-* OSF makes it very easy to combine everything, your preprints, publication, data and code.
+* You have to register an account at [OSF](https://osf.io/dashboard) to use the OSF registry.
 *	You can start a preregistration either [here](https://osf.io/prereg/) or by creating a new project and selecting “registrations” (on the top) and then “new registration” (top right corner). 
 *	For more information on how to create a preregistration, see [here](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration).
 *	When starting a preregistration you can choose between different types of preregistrations depending on your preferences and what type of study you want to preregister (OSF/ As.Predicted/ Qualitative data preregistration)
 
 ### As.Predicted preregistration
 
-*	You can submit a preregistration in the form of the As.Predicted preregistration at the OSF platform, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
+*	You can preregister your study in form of the As.Predicted preregistration with the OSF registry, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
 *	You can start an as.predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account. 
 
 ## Further Resources
@@ -66,6 +70,17 @@ Preregistration is the practice of registering the hypotheses, methods, and/or a
 
 ### Registered Reports
 
+You could think about Registered Reports as peer-reviewed preregistrations. 
+
+![]({{ site.baseurl }}{% link assets/images/registeredreport.png %})
+
+<details markdown="block">
+<summary>More</summary>
+  
+The registered report format requires authors to submit a description of the study methods and analyses prior to data collection. Once the method and analysis plan is vetted through Stage 1 peer review, publication of the findings is provisionally guaranteed. The associated study is then conducted, and the research report is submitted to Stage 2 peer review. Stage 2 peer review confirms that the actual research methods are consistent with the preregistered protocol and that quality thresholds are met (e.g., manipulation checks confirm the validity of the experimental manipulation). Studies that pass Stage 2 peer review are then published regardless of whether the results are confirming or disconfirming, significant or nonsignificant. 
+
+</details>  
+  
 You can find out more about registered reports and participating journals [here](https://www.cos.io/initiatives/registered-reports).
 
 This [link](https://help.osf.io/hc/en-us/articles/360019930913-Submit-a-Registered-Report) will give you more information on how to start with your registered report.
