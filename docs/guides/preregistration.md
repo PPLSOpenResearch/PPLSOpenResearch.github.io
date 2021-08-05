@@ -77,7 +77,7 @@ You could think about Registered Reports as peer-reviewed preregistrations.
 <details markdown="block">
 <summary>More</summary>
   
-The registered report format requires authors to submit a description of the study methods and analyses prior to data collection. Once the method and analysis plan is vetted through Stage 1 peer review, publication of the findings is provisionally guaranteed. The associated study is then conducted, and the research report is submitted to Stage 2 peer review. Stage 2 peer review confirms that the actual research methods are consistent with the preregistered protocol and that quality thresholds are met (e.g., manipulation checks confirm the validity of the experimental manipulation). Studies that pass Stage 2 peer review are then published regardless of whether the results are confirming or disconfirming, significant or nonsignificant. 
+The registered report format requires you to submit a description of your study methods and analyses prior to data collection similar to the ordinary preregistration. However, your method and analysis plan will get peer-reviewed (Stage 1 peer review). If your method and analysis plan is accepted, the publication of your findings is provisionally guaranteed. After having conducted your study, your research report is submitted to Stage 2 peer review. Stage 2 peer review confirms that your actual research methods are consistent with the preregistered protocol. Studies that pass Stage 2 peer review are then published regardless of whether the results are confirming or disconfirming, significant or nonsignificant. 
 
 </details>  
   
