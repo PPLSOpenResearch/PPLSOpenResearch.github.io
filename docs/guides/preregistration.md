@@ -24,7 +24,7 @@ nav_order: 4
 ## What is a preregistration?
 
 Preregistration is the practice of registering the hypotheses, methods, and/or analyses of a scientific study before it is conducted and involves creating a time-stamped record of the study and analysis plan.
-So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.predicted). 
+So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.Predicted). 
 
 <details markdown="block">
 <summary>More</summary>
@@ -58,8 +58,8 @@ So when you preregister your research, you're simply specifying your research pl
 
 ### As.Predicted preregistration
 
-*	You can preregister your study in form of the As.Predicted preregistration with the OSF registry, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
-*	You can start an as.predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account. 
+*	You can preregister your study in form of the As.Predicted preregistration with the OSF registry, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.Predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
+*	You can start an As.Predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account. 
 
 ## Further Resources
 
