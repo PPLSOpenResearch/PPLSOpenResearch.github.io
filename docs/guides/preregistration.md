@@ -30,7 +30,7 @@ Preregistration is the practice of registering the hypotheses, methods, and/or a
   
   Preregistration separates *hypothesis-generating* (exploratory) from *hypothesis-testing* (confirmatory) research. Both are important. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research. This helps you clearly report your study and helps others who may wish to build on it.
   
-Research can be considered on a dimension from exploratory to confirmatory. *Pre-registration enables confirmatory hypothesis testing*, which allows researchers to have a higher level of confidence in their findings, but there is lots of value in exploratory research. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. 
+Research can be considered on a dimension from exploratory to confirmatory. **Pre-registration enables confirmatory hypothesis testing**, which allows researchers to have a higher level of confidence in their findings, but there is lots of value in exploratory research. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. 
 
 | Confirmatory Research                       |  Exploratory Research                                              |
 |:--------------------------------------------|:-------------------------------------------------------------------|
@@ -69,6 +69,10 @@ Research can be considered on a dimension from exploratory to confirmatory. *Pre
 You can find out more about registered reports and participating journals [here](https://www.cos.io/initiatives/registered-reports).
 
 This [link](https://help.osf.io/hc/en-us/articles/360019930913-Submit-a-Registered-Report) will give you more information on how to start with your registered report.
+
+## Acknowledgement
+
+Most of the content is adapted from [the Center of Open Science](https://www.cos.io/).
 
 ---
 
