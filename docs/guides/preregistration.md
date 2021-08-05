@@ -33,7 +33,7 @@ Preregistration is the practice of registering the hypotheses, methods, and/or a
 Research can be considered on a dimension from exploratory to confirmatory. Pre-registration enables confirmatory hypothesis testing, which allows researchers to have a higher level of confidence in their findings, but there is lots of value in exploratory research. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. 
 
 | Confirmatory Research                       |  Exploratory Research                                              |
-|:-------------------------------------------:|-------------------------------------------------------------------:|
+|:--------------------------------------------|:-------------------------------------------------------------------|
 | Hypothesis testing                          |  Hypothesis generating                                             |
 | Data-independent                            |  Data-dependent                                                    |
 | Minimizes false positives                   |  Minimizes false negatives in order to find unexpected discoveries |
