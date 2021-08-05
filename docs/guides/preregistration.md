@@ -36,7 +36,7 @@ Research can be considered on a dimension from exploratory to confirmatory. Pre-
 |:-------------------------------------------:|-------------------------------------------------------------------:|
 | Hypothesis testing                          |  Hypothesis generating                                             |
 | Data-independent                            |  Data-dependent                                                    |
-| Minimizes false positives| right-aligned    |  Minimizes false negatives in order to find unexpected discoveries |
+| Minimizes false positives                   |  Minimizes false negatives in order to find unexpected discoveries |
 | P-values retain diagnostic value            |  P-values lose diagnostic value                                    |
 | Inferences may be drawn to wider population |  Not useful for making inferences to any wider population          |  
 
