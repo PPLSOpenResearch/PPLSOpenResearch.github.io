@@ -65,6 +65,8 @@ So when you preregister your research, you're simply specifying your research pl
 
 * For an overview, further resources and FAQs on preregistrations go [here](https://www.cos.io/initiatives/prereg).
 * You can also find a number of useful [templates](https://osf.io/zab38/wiki/home/?view) and examples [here](https://osf.io/registries) and [here](https://osf.io/e6auq/wiki/Example%20Preregistrations/?view).
+* Can I make changes to my preregistration? - [yes](https://osf.io/yrvcg/)
+* Can I use a pre-existing data set for my preregistration? - [perhaps](https://osf.io/x5w7h/wiki/01%20FAQ/)
 
 ## Advanced Topics
 
