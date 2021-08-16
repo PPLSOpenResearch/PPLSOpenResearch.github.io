@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preregistration Guide
+title: Preregistration guide
 parent: Guides
 nav_order: 4
 ---
@@ -24,14 +24,14 @@ nav_order: 4
 ## What is a preregistration?
 
 Preregistration is the practice of registering the hypotheses, methods, and/or analyses of a scientific study before it is conducted and involves creating a time-stamped record of the study and analysis plan.
-So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.Predicted). 
+So when you preregister your research, you're simply specifying your research plan in advance of your study and submitting it to a registry (OSF/As.Predicted).
 
 <details markdown="block">
 <summary>More</summary>
-  
+
   Preregistration separates *hypothesis-generating* (exploratory) from *hypothesis-testing* (confirmatory) research. Both are important. We can think of exploratory and confirmatory as different parts of the research cycle, in which researchers develop hypotheses in the exploratory phase and become more confident in the veracity of those hypotheses in the confirmatory phase. But the same data cannot be used to generate and test a hypothesis, which can happen unintentionally and reduce the credibility of your results. Addressing this problem through planning improves the quality and transparency of your research.
 
-  Thus, **preregistration enables confirmatory hypothesis testing**, which allows you to have a higher level of confidence in your findings and helps others who may wish to build on it. 
+  Thus, **preregistration enables confirmatory hypothesis testing**, which allows you to have a higher level of confidence in your findings and helps others who may wish to build on it.
 
 | Confirmatory Research                       |  Exploratory Research                                              |
 |:--------------------------------------------|:-------------------------------------------------------------------|
@@ -39,9 +39,9 @@ So when you preregister your research, you're simply specifying your research pl
 | Data-independent                            |  Data-dependent                                                    |
 | Minimizes false positives                   |  Minimizes false negatives in order to find unexpected discoveries |
 | P-values retain diagnostic value            |  P-values lose diagnostic value                                    |
-| Inferences may be drawn to wider population |  Not useful for making inferences to any wider population          |  
+| Inferences may be drawn to wider population |  Not useful for making inferences to any wider population          |
 
-</details>  
+</details>
 
 ## What is the Open Science Framework (OSF)?
 
@@ -52,14 +52,14 @@ So when you preregister your research, you're simply specifying your research pl
 ### OSF preregistration
 
 * You have to register an account at [OSF](https://osf.io/dashboard) to use the OSF registry.
-*	You can start a preregistration either [here](https://osf.io/prereg/) or by creating a new project and selecting “registrations” (on the top) and then “new registration” (top right corner). 
+*	You can start a preregistration either [here](https://osf.io/prereg/) or by creating a new project and selecting “registrations” (on the top) and then “new registration” (top right corner).
 *	For more information on how to create a preregistration, see [here](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration).
 *	When starting a preregistration you can choose between different types of preregistrations depending on your preferences and what type of study you want to preregister (OSF/ As.Predicted/ Qualitative data preregistration)
 
 ### As.Predicted preregistration
 
 *	You can preregister your study in form of the As.Predicted preregistration with the OSF registry, however, this comes with OSF specific restrictions. On OSF preregistrations can be public or embargoed for up to four years. Embargoed registrations will be made public automatically when the embargo expires. As.Predicted preregistrations can remain private, see [here](https://aspredicted.org/messages/private_forever.php) on why that is.
-*	You can start an As.Predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account. 
+*	You can start an As.Predicted preregistration by going [here](https://aspredicted.org/) and clicking on “create a new pre-registration”. You are then asked for your email address to create your account.
 
 ## Further Resources
 
@@ -72,17 +72,17 @@ So when you preregister your research, you're simply specifying your research pl
 
 ### Registered Reports
 
-You could think about Registered Reports as peer-reviewed preregistrations. 
+You could think about Registered Reports as peer-reviewed preregistrations.
 
 ![]({{ site.baseurl }}{% link assets/images/registeredreport.png %})
 
 <details markdown="block">
 <summary>More</summary>
-  
-The registered report format requires you to submit a description of your study methods and analyses prior to data collection similar to the ordinary preregistration. However, your method and analysis plan will get peer-reviewed (Stage 1 peer review). If your method and analysis plan is accepted, the publication of your findings is provisionally guaranteed. After having conducted your study, your research report is submitted to Stage 2 peer review. Stage 2 peer review confirms that your actual research methods are consistent with the preregistered protocol. Studies that pass Stage 2 peer review are then published regardless of whether the results are confirming or disconfirming, significant or nonsignificant. 
 
-</details>  
-  
+The registered report format requires you to submit a description of your study methods and analyses prior to data collection similar to the ordinary preregistration. However, your method and analysis plan will get peer-reviewed (Stage 1 peer review). If your method and analysis plan is accepted, the publication of your findings is provisionally guaranteed. After having conducted your study, your research report is submitted to Stage 2 peer review. Stage 2 peer review confirms that your actual research methods are consistent with the preregistered protocol. Studies that pass Stage 2 peer review are then published regardless of whether the results are confirming or disconfirming, significant or nonsignificant.
+
+</details>
+
 You can find out more about registered reports and participating journals [here](https://www.cos.io/initiatives/registered-reports).
 
 This [link](https://help.osf.io/hc/en-us/articles/360019930913-Submit-a-Registered-Report) will give you more information on how to start with your registered report.

@@ -17,6 +17,6 @@ In this workshop we will briefly discuss what a pre-registration is and what it'
 
 In both cases you will be able to interact with fellow researchers, and we are there along the way to answer all questions you might have!
 
-## Registration
+## Event materials
 
-<https://www.eventbrite.co.uk/e/ppls-open-research-event2-pre-registration-tickets-163972727843>
+See [Preregistration guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %}).

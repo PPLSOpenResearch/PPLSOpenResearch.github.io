@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Github Tutorial
+title: Github tutorial
 parent: Guides
 nav_order: 5
 ---

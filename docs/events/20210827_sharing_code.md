@@ -26,4 +26,4 @@ Don't panic, it will be fun!
 
 ## Registration
 
-*Registration link will be available two weeks before the event.*
+<https://www.eventbrite.co.uk/e/ppls-open-research-event-3-intro-to-github-tickets-165476020231>
