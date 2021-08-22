@@ -153,7 +153,16 @@ One of my favorite memes about Github:
 
 ## Advanced topics
 
-Collaboration on Github is usually done via `branch`, `fork`, and `pull request`.
+You can work on a different "version" of your project with `branches`.
+
+- [Git Tutorial: Branches](https://www.youtube.com/watch?v=sgzkY5vFKQQ)
+- [Introduction to GIT - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
+
+If you want to develop a project based on someone else's existing code, you can use `forks`.
+
+- [About forks](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/about-forks)
+
+As a sum-up, try this [GitHub 'Hello World' Project](https://guides.github.com/activities/hello-world/).
 
 ## Acknowledgement
 
