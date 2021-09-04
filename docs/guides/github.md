@@ -170,4 +170,4 @@ Most of the content in this tutorial is adapted from [HackYourFuture](https://gi
 
 ---
 
-<!-- [Next: Six pillars of open research]({{ site.baseurl }}{% link docs/guides/six_pillars_of_open_research.md %}) -->
+[Next: Open research data and materials]({{ site.baseurl }}{% link docs/guides/open_data.md %})

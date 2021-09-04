@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preregistration guide
+title: Preregistration
 parent: Guides
 nav_order: 4
 ---

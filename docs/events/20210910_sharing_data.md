@@ -19,4 +19,4 @@ This workshop aims to answer these questions and any others you have about shari
 
 ## Registration
 
-*Registration link will be available two weeks before the event.*
+<https://www.eventbrite.co.uk/e/ppls-open-research-event-4-sharing-data-tickets-165477867757>

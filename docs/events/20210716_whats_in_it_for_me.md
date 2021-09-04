@@ -19,6 +19,10 @@ With our first event **what's in it for me** we will introduce you to the princi
 
 If you want to gain an overview of Open Research before the event check out our list of resources!
 
+## Registration
+
+*Closed*
+
 ## Material
 
 Slides: <https://osf.io/j2rfw/>

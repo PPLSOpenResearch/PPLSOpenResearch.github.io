@@ -17,6 +17,10 @@ In this workshop we will briefly discuss what a pre-registration is and what it'
 
 In both cases you will be able to interact with fellow researchers, and we are there along the way to answer all questions you might have!
 
+## Registration
+
+*Closed*
+
 ## Event materials
 
 See [Preregistration guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %}).
