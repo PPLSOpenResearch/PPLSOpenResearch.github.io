@@ -32,6 +32,9 @@ nav_order: 4
 - <https://www.ukdataservice.ac.uk/manage-data/handbook>
 - <https://www.nature.com/articles/sdata201618>
 - <https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide>
+- <https://www.utwente.nl/en/bms/datalab/datasharing/new-rich-text-document/>
+- <https://library.bath.ac.uk/research-data/working-with-data/data-documentation-metadata>
+
 
 ---
 
