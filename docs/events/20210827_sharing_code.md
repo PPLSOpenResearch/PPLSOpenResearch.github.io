@@ -24,6 +24,6 @@ This event will be hands-on, with a lot of live coding demonstrations.
 You are encouraged to code along with us.
 Don't panic, it will be fun!
 
-## Registration
+## Materials
 
-*Closed*
+[Github Tutorial for Beginners]({{ site.baseurl }}{% link docs/guides/github.md %}).
