@@ -17,6 +17,8 @@ September 10th, 10:30am-12:00 (BST)
 
 This workshop aims to answer these questions and any others you have about sharing data and choosing licences.
 
-## Registration
+## Materials
 
-<https://www.eventbrite.co.uk/e/ppls-open-research-event-4-sharing-data-tickets-165477867757>
+- [Open Research Data and Materials]({{ site.baseurl }}{% link docs/guides/open_data.md %})
+- Kerry's talk on UoE Research Data Support ([PDF]({{ site.baseurl }}{% link assets/pdfs/RDS_V4.0.pdf %}))
+- Alex talk on Open Data Practice ([PDF]({{ site.baseurl }}{% link assets/pdfs/OpenData.pdf %}))
