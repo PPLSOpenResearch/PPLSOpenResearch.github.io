@@ -20,7 +20,7 @@ This workshop aims to answer these questions and any others you have about shari
 ## Speakers
 
 - [**Alex Lorson**](https://alex-lorson.github.io), PPLS Open Research Facilitator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/OpenData.pdf %}))
-- **Giulia Giganti**, PURE Impact and Open Access Administrator
+- **Giulia Giganti**, PURE Impact and Open Access Administrator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/data_licensing.pdf %}))
 - **Kerry Miller**, Research Data Support Officer ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/RDS_V4.0.pdf %}))
 
 ## Materials
