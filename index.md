@@ -28,13 +28,14 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ## Upcoming Events
 
-- [(September 10th) Hands-on workshop on sharing data]({{ site.baseurl }}{% link docs/events/20210910_sharing_data.md %})
+*Coming soon*
 
 ## Past Events
 
-- [(July 16th) Introduction: what’s in it for me?]({{ site.baseurl }}{% link docs/events/20210716_whats_in_it_for_me.md %})
-- [(August 13th) Hands-on workshop on pre-registration]({{ site.baseurl }}{% link docs/events/20210813_preregistration.md %})
+- [(September 10th) Hands-on workshop on sharing data]({{ site.baseurl }}{% link docs/events/20210910_sharing_data.md %})
 - [(August 27th) Hands-on workshop: introduction to Github]({{ site.baseurl }}{% link docs/events/20210827_sharing_code.md %})
+- [(August 13th) Hands-on workshop on pre-registration]({{ site.baseurl }}{% link docs/events/20210813_preregistration.md %})
+- [(July 16th) Introduction: what’s in it for me?]({{ site.baseurl }}{% link docs/events/20210716_whats_in_it_for_me.md %})
 
 ---
 
