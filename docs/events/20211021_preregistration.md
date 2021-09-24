@@ -7,7 +7,7 @@ nav_order: 3
 
 # How-to: Pre-registration
 
-Oct 21st, 14-15:00 (BST)
+Oct 21st, 14:10-15:00 (BST)
 {: .fs-6 .fw-300 }
 
 ## Speaker
