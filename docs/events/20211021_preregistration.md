@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021-20-21 Pre-registration
+title: 2021-10-21 Pre-registration
 parent: Events
 nav_order: 3
 ---
