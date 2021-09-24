@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S1E3 | Github
+title: 2021-08-27 Github
 parent: Events
 nav_order: 6
 ---

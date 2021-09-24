@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S1E1 | Introduction
+title: 2021-07-16 What's in it
 parent: Events
 nav_order: 8
 ---

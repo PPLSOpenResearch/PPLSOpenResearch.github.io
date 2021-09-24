@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S2E4 | Open Data
+title: 2021-11-18 Open Data
 parent: Events
 nav_order: 1
 ---

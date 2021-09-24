@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S1E2 | Pre-registration
+title: 2021-08-13 Pre-registration
 parent: Events
 nav_order: 7
 ---
