@@ -7,7 +7,7 @@ nav_order: 2
 
 # Introduction to Github
 
-Nov 4th, 14-15:00 (BST)
+Nov 4th, 14:10-15:00 (BST)
 {: .fs-6 .fw-300 }
 
 ## Demonstrator
