@@ -7,7 +7,7 @@ nav_order: 1
 
 # Information on Open Data
 
-Nov 18th, 14-15:00 (BST)
+Nov 18th, 14:10-15:00 (BST)
 {: .fs-6 .fw-300 }
 
 ## Speakers
