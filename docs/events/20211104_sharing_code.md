@@ -1,19 +1,24 @@
 ---
 layout: default
-title: S1E3 | Github
+title: S2E3 | Github
 parent: Events
-nav_order: 6
+nav_order: 2
 ---
 
-# Hands-on Workshop: Introduction to Github
+# Introduction to Github
 
-August 27th, 10:30am-12:00 (BST)
+Nov 4th, 14-15:00 (BST)
 {: .fs-6 .fw-300 }
 
+## Demonstrator
+
+[**Bonan Zhao**](https://www.bramleylab.ppls.ed.ac.uk/member/bonan/), PhD student in Psychology, PPLS Open Research Facilitator
+
+## Event Description
 
 [Github](https://github.com) is a great place to track your research development, openly share your code, and learn from other's projects.
 
-In this workshop, you will learn:
+In this event, you will learn:
 
 - How to start a Github repository and upload your work
 - How to keep track of your project progress on Github
@@ -23,6 +28,12 @@ In this workshop, you will learn:
 This event will be hands-on, with a lot of live coding demonstrations.
 You are encouraged to code along with us.
 Don't panic, it will be fun!
+
+## Drop-in session
+
+We run a drop-in session on Nov 11th, 14-15:00 BST.
+If you have any questions about working with Github, please don't hesitate to come.
+
 
 ## Materials
 

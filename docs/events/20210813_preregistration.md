@@ -1,8 +1,8 @@
 ---
 layout: default
-title: (Workshop) Pre-registration
+title: S1E2 | Pre-registration
 parent: Events
-nav_order: 2
+nav_order: 7
 ---
 
 # Hands-on Workshop on Pre-registration

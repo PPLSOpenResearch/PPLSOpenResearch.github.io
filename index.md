@@ -28,7 +28,10 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ## Upcoming Events
 
-*Coming soon*
+- [(Oct 7th) Introduction: what’s in it for me?]({{ site.baseurl }}{% link docs/events/20211007_intro.md %})
+- [(Oct 21st) Hands-on workshop on pre-registration]({{ site.baseurl }}{% link docs/events/20211021_preregistration.md %})
+- [(Nov 4th) Hands-on workshop: introduction to Github]({{ site.baseurl }}{% link docs/events/20211104_sharing_code.md %})
+- [(Nov 18th) Hands-on workshop on sharing data]({{ site.baseurl }}{% link docs/events/20211118_sharing_data.md %})
 
 ## Past Events
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: (Workshop) Sharing Data
+title: S1E4 | Open Data
 parent: Events
-nav_order: 4
+nav_order: 5
 ---
 
-# Hands-on Workshop on Sharing Data
+# Hands-on Workshop on Open Data
 
 September 10th, 10:30am-12:00 (BST)
 {: .fs-6 .fw-300 }
