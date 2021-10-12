@@ -18,7 +18,6 @@ nav_order: 4
 
 ---
 
-
 ## Introduction/overview
 
 - [Easing Into Open Science: a guide for graduate students and their advisors](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate)
@@ -58,6 +57,11 @@ nav_order: 4
 - [Plan S initiative](https://www.coalition-s.org/why-plan-s/)
 
 ---
+
+## Mailing lists
+
+- [PPLS Open Research newsletter](https://mlist.is.ed.ac.uk/lists/info/open-research-ppls) (send an email to `sympa@mlist.is.ed.ac.uk` with title `SUBSCRIBE open-research-ppls` and an empty body)
+- [Edinburgh Open Research newsletter](https://mailchi.mp/8800ecd49891/edinburgh_open_research-14874980)
 
 ## Podcasts
 
