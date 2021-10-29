@@ -32,8 +32,7 @@ Don't panic, it will be fun!
 ## Drop-in session
 
 We run a drop-in session on Nov 11th, 14-15:00 BST.
-If you have any questions about working with Github, please don't hesitate to come.
-
+If you have any questions about working with git or Github, please don't hesitate to come.
 
 ## Materials
 

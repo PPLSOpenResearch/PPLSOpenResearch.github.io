@@ -25,12 +25,11 @@ Open Research is transparent and accessible knowledge that is shared and develop
 [Read more]({{ site.baseurl }}{% link docs/guides/principles_and_practices.md %})
 
 ---
+
 ## Upcoming Events
 
-- [(Oct 21st) Hands-on workshop on pre-registration]({{ site.baseurl }}{% link docs/events/20211021_preregistration.md %})
 - [(Nov 4th) Hands-on workshop: introduction to Github]({{ site.baseurl }}{% link docs/events/20211104_sharing_code.md %})
 - [(Nov 18th) Hands-on workshop on sharing data]({{ site.baseurl }}{% link docs/events/20211118_sharing_data.md %})
-
 
 [View more]({{ site.baseurl }}{% link docs/events/index.md %})
 
@@ -42,6 +41,7 @@ Open Research is transparent and accessible knowledge that is shared and develop
 - External email address: send an email to `sympa@mlist.is.ed.ac.uk` with title `SUBSCRIBE open-research-ppls` and an empty body (see [instruction](https://www.ed.ac.uk/information-services/computing/comms-and-collab/email/lists/sympa/subscribe))
 
 ---
+
 ## Contact
 
 PPLSOpenResearch@ed.ac.uk
