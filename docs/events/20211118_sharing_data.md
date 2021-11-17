@@ -12,15 +12,16 @@ Nov 18th, 14:10-15:00 (BST)
 
 ## Speakers
 
+- **Giulia Giganti**, PURE Impact and Open Access Administrator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/data_licensing.pdf %}))
 - [**Alex Lorson**](https://alex-lorson.github.io), PPLS Open Research Facilitator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/OpenData.pdf %}))
 - [**Bonan Zhao**](https://www.bramleylab.ppls.ed.ac.uk/member/bonan/), PPLS Open Research Facilitator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/RDS_V4.0.pdf %}))
-- **Giulia Giganti**, PURE Impact and Open Access Administrator ([Slides PDF]({{ site.baseurl }}{% link assets/pdfs/data_licensing.pdf %}))
 
 ## Event Description
 
-- Where should I store my data for open access?
 - What should I know when making my data openly available?
-- How to choose a licence?
+- What is the FAIR principle in open data?
+- Why should I document my data and how to do so?
+- What does licensing mean and how to choose one?
 - How does the univeristy support open data sharing?
 
 This workshop aims to answer these questions and any others you have about sharing data and choosing licences.
