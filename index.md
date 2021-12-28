@@ -28,9 +28,9 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ## Upcoming Events
 
-- [(Nov 18th) Hands-on workshop on sharing data]({{ site.baseurl }}{% link docs/events/20211118_sharing_data.md %})
+Stay tuned for the new semester!
 
-[View more]({{ site.baseurl }}{% link docs/events/index.md %})
+[View past events]({{ site.baseurl }}{% link docs/events/index.md %})
 
 ---
 
