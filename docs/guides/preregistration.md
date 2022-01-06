@@ -2,7 +2,7 @@
 layout: default
 title: Preregistration
 parent: Guides
-nav_order: 4
+nav_order: 2
 ---
 
 # Preregistration Guide & Resources
@@ -93,4 +93,4 @@ Most of the content is adapted from [the Center of Open Science](https://www.cos
 
 ---
 
-[Next: Github Tutorial]({{ site.baseurl }}{% link docs/guides/github.md %})
+<!-- [Next: Github Tutorial]({{ site.baseurl }}{% link docs/guides/github.md %}) -->

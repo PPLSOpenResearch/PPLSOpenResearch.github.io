@@ -2,7 +2,7 @@
 layout: default
 title: Github tutorial
 parent: Guides
-nav_order: 5
+nav_order: 3
 ---
 
 # Github Tutorial for Beginners
@@ -170,4 +170,4 @@ Most of the content in this tutorial is adapted from [HackYourFuture](https://gi
 
 ---
 
-[Next: Open research data and materials]({{ site.baseurl }}{% link docs/guides/open_data.md %})
+<!-- [Next: Open research data and materials]({{ site.baseurl }}{% link docs/guides/open_data.md %}) -->

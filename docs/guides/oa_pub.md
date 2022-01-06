@@ -2,10 +2,10 @@
 layout: default
 title: Open Access publication
 parent: Guides
-nav_order: 3
+nav_order: 5
 ---
 
-# Open Access publication
+# Open Access Publication
 {: .no_toc }
 
 <details open markdown="block">
@@ -52,4 +52,4 @@ nav_order: 3
 
 ---
 
-[Next: Preregistration Guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %})
+<!-- [Next: Preregistration Guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %}) -->

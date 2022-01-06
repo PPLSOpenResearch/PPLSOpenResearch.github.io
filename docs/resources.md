@@ -7,7 +7,7 @@ nav_order: 4
 # Resouces
 {: .no_toc }
 
-<details open markdown="block">
+<!-- <details open markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -16,7 +16,7 @@ nav_order: 4
 {:toc}
 </details>
 
----
+--- -->
 
 ## Introduction/overview
 
@@ -29,16 +29,28 @@ nav_order: 4
 ## Open methodology
 
 - [Edinburgh ReproducibiliTea - Selfish Reasons to Work Reproducibly](https://www.youtube.com/watch?v=bZ0L53VZQF4)
+- [The Reproducibility Project: Psychology](https://osf.io/ezcuj/wiki/home/)
+
+---
+
+## Pre-registration
+
 - [Center for Open Science - What is Preregistration](https://www.cos.io/initiatives/prereg)
+- [OSF Registries](https://osf.io/registries)
+- [As.predicted](https://aspredicted.org/)
+- [Templates](https://osf.io/zab38/wiki/home/?view) and [examples](https://osf.io/e6auq/wiki/Example%20Preregistrations/?view)
+- [Our Instructions]({{ site.baseurl }}{% link docs/guides/preregistration.md %})
 
 ---
 
 ## Open data
 
+- [University research data service](https://www.ed.ac.uk/information-services/research-support/research-data-service)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 - [CESSDA data management expert guide](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide)
 - [Metadata, metadata standard & documentation](https://www.utwente.nl/en/bms/datalab/datasharing/new-rich-text-document/)
-- [University research data service](https://www.ed.ac.uk/information-services/research-support/research-data-service)
+- [Our guide]({{ site.baseurl }}{% link docs/guides/open_data.md %})
+
 
 ---
 
@@ -46,6 +58,7 @@ nav_order: 4
 
 - [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)
 - [A systematic literature review on the barriers faced by newcomers to open source software projects](http://igor.pro.br/publica/papers/IST_SysReview_PrePrint.pdf)
+- [Our GitHub tutorial]({{ site.baseurl }}{% link docs/guides/github.md %})
 
 ---
 
@@ -55,8 +68,16 @@ nav_order: 4
 - [University Open Access publication funds](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/request-apc-payment)
 - [Article Processing Charge (APC) waiver for Glossa](https://www.glossa-journal.org/about/submissions/)
 - [Plan S initiative](https://www.coalition-s.org/why-plan-s/)
+- Preprint servers: [PsyArXiv](https://psyarxiv.com/), [OSF](https://osf.io/), [arXiv](https://arxiv.org/), [Pure (University of Edinburgh)](https://www.ed.ac.uk/information-services/research-support/research-information-management/pure)
+- Find OA journals for [linguistics](https://oaling.wordpress.com/), [psychology](https://open-access.net/en/open-access-in-individual-disciplines/psychology), and [check journal policies](https://v2.sherpa.ac.uk/romeo/)
 
 ---
+
+## Data licensing
+
+- [Creative Commons](https://chooser-beta.creativecommons.org/) licences for creative works (including research publications and datasets)
+- [Open Data Commons](https://opendatacommons.org/licenses/index.html) licences for databases
+- [Example statements]({{ site.baseurl }}{% link docs/guides/licensing.md %})
 
 ## Mailing lists
 
