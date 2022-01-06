@@ -33,6 +33,7 @@ github_username:  jekyll
 # theme: minima
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
+color_scheme: ppls
 plugins:
   - jekyll-feed
 
