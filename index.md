@@ -28,7 +28,9 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ## Upcoming Events
 
-Stay tuned for the new semester!
+* Mar 16, [PPLS Open Research Blitz Talk]({{ site.baseurl }}{% link docs/events/20220316_blitz.md %})!
+* Apr 6, [PPLS Open Research Pre-reg Workshop]({{ site.baseurl }}{% link docs/events/20220406_prereg.md %})!
+* Apr 29, [PPLS Open Research Github Workshop]({{ site.baseurl }}{% link docs/events/20220429_github.md %})!
 
 [View past events]({{ site.baseurl }}{% link docs/events/index.md %})
 
@@ -40,7 +42,6 @@ Stay tuned for the new semester!
 - External email address: send an email to `sympa@mlist.is.ed.ac.uk` with title `SUBSCRIBE open-research-ppls` and an empty body (see [instruction](https://www.ed.ac.uk/information-services/computing/comms-and-collab/email/lists/sympa/subscribe))
 
 ---
-
 ## Contact
 
 PPLSOpenResearch@ed.ac.uk
