@@ -26,7 +26,7 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ---
 
-## Recent Events
+## Events
 
 * Apr 29, [PPLS Open Research Pre-reg Workshop]({{ site.baseurl }}{% link docs/events/20220429_prereg.md %})!
 * Apr 6, [PPLS Open Research Github Workshop]({{ site.baseurl }}{% link docs/events/20220406_github.md %})!
