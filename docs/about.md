@@ -12,7 +12,7 @@ nav_order: 5
 * [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
 * [Giulia Giganti](https://www.ed.ac.uk/profile/giulia-giganti)
 * [Bonan Zhao](https://zhaobn.github.io)
-* [Georgia Carter](http://www.inf.ed.ac.uk/people/students/Georgia-Ann_Carter.html)
+* [Georgia Carter](https://gacarter.github.io/)
 
 ## Past team members
 
