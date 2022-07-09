@@ -40,6 +40,11 @@ nav_order: 4
 - [As.predicted](https://aspredicted.org/)
 - [Templates](https://osf.io/zab38/wiki/home/?view) and [examples](https://osf.io/e6auq/wiki/Example%20Preregistrations/?view)
 - [Our Instructions]({{ site.baseurl }}{% link docs/guides/preregistration.md %})
+- [Cortex stage 1 registered reports](https://osf.io/d2y4c/) 
+- [Published registered reports](https://www.zotero.org/groups/479248/osf/collections/KEJP68G9)
+- 
+- [Carter & Nieuwland (2022)](https://osf.io/b8fuz) 
+- [Carter & Hoffman (pre-print, 2022) experiment 1](https://osf.io/h73qg) [experiment 2](https://osf.io/zu76h) [experiment 3](https://osf.io/cqr7a) 
 
 ---
 
@@ -50,7 +55,10 @@ nav_order: 4
 - [CESSDA data management expert guide](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide)
 - [Metadata, metadata standard & documentation](https://www.utwente.nl/en/bms/datalab/datasharing/new-rich-text-document/)
 - [Our guide]({{ site.baseurl }}{% link docs/guides/open_data.md %})
-
+- [Droop & Bramley (2022) Github](https://github.com/Stephaniedroop/inferring-intention)
+- [Carter & Nieuwland (2022) OSF](https://osf.io/ud2b7/)
+- [Carter & Hoffman (preprint, 2022) OSF](https://osf.io/a8j4c/) 
+- [Carter & Hoffman (preprint, 2022) Github repo](https://github.com/gacarter/spr) 
 
 ---
 
