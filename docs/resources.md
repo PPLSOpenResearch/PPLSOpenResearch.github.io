@@ -4,7 +4,7 @@ title: Resources
 nav_order: 4
 ---
 
-# Resouces
+# Resources
 {: .no_toc }
 
 <!-- <details open markdown="block">
