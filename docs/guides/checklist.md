@@ -19,24 +19,40 @@ nav_order: 7
 
 ---
 
-## Doing experiment/analysis
+## Running an experiment 
 
-_Upcoming_
+* If you created stimuli, have you described your manipulations?
+* If you adapted stimuli, have you credited the creators? 
+* For your stimuli, have you provided an accessible file with metadata? 
+* Have you outlined the steps you took while running your experiment so that others may replicate? 
+* Have you applied for ethical approval prior to data collection? 
+* Have you pre-registered your analyses? 
+* Depending on your type of experiment, have you considered a registered report? 
+
 
 ## Sharing data
 
-* Did I remove senstive data or personal identifiers?
-* Did I prep my data files in a commonly-accessible format (preferably CSV)?
-* Did I document my column names in a metafile?
-* Did I explain what values mean what in a metafile?
-* Did I explain how the data was collected in a metafile, in a way that someone else can replicate this procedure?
-* Did I store it in an open and safe (preferably permanent) place but I won't arbitarily move it?
-* If publishing data with a paper, did I attach the paper (or link to the paper)?
-* Did I include a proper license for my data (this is very important if you do want people to use your data)?
+* Have you removed sensitive data or personal identifiers? 
+* Have you prepped your data files in a commonly-accessible format (preferably CSV)? 
+* Have you documented your column names in a metafile? 
+* Have you explained what the values mean in a metafile? 
+* Have you explained how the data was collected, in a metafile/repo documentation/associated manuscript, in a way that someone else can replicate this procedure? 
+* Have you stored the data in an open and safe (preferably permanent) place? 
+* If publishing data with a paper, have you linked the paper clearly? 
+* Have you included a license for your data? (for information on licensing, see [Data Licensing]({{ site.baseurl }}{% link docs/guides/licensing.md %}) ) 
 
-## Publishing
+## Pre-printing 
 
-_Upcoming_
+* Have you included an OSF/Github/repo link in your manuscript? 
+* If you worked with human participants/data, have you explicitly stated whether you had ethics approval? 
+* Have you included the ethics approval code? 
+
+## Publishing 
+
+* Have you checked whether your journal of choice offers open access publication? 
+* Have you checked whether your funder requires a certain level of open access publication? 
+* If you wish to pre-print, does your journal of choice accept previously pre-printed manuscripts? 
+* Have you included an OSF/Github/repo link in your manuscript? 
 
 ---
 
