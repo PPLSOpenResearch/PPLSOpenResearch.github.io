@@ -19,7 +19,24 @@ nav_order: 5
 
 ![]({{ site.baseurl }}{% link assets/images/oa_types.png %})
 
+## Introduction 
+
+Open access publication is a movement to have free and open access to academic information, which have traditionally been hidden behind paywalls. This often meant that the original academic source was not available to the general public, and instead was only accessible through subscriptions (typically through libraries/academic institutions).
+
+Open access publication is organised into a colour-system, with Green and Gold the most commonly mentioned. 
+
+- Green OA: the article is published in a traditional toll-access journal, but is also self-archived on an open access repository (such as [PsyArXiv](https://psyarxiv.com/))
+
+- Gold OA: the article is published in an open access journal under a Creative Commons license, with complete access to the article and any related content (think supplementary materials/data). Article-processing charges (APCs) may be applied.  
+
+- Diamond/Platinum OA: similar to gold OA, articles are instantly available open-access, however no APCs are applied.  
+
+- Hybrid OA: the articles published here are usually a mix of open- and closed-access. To ensure open-access, there is a publication fee  (usually to the author/research sponsor)
+
+![]({{ site.baseurl }}{% link assets/images/oa_colours.png %})
+
 ---
+
 
 ## Find Open Access journals
 
@@ -48,7 +65,7 @@ nav_order: 5
 
 ## Other
 
-- All non-embargoed doctoral thesis will be published on [ERA](https://era.ed.ac.uk/handle/1842/154)
+- All non-embargoed doctoral theses will be published on [ERA](https://era.ed.ac.uk/handle/1842/154)
 
 ---
 
