@@ -9,6 +9,7 @@ nav_order: 3
 {: .no_toc }
 
 *Created by Bonan Zhao on Aug 1, 2021*
+
 *Updated by Georgia Carter on Nov 10, 2022*
 
 <details open markdown="block">
@@ -105,7 +106,8 @@ Recently, Github has switched from password authentication to authentication usi
 
 To fix this, you will need to create a PAT and use this token as the password when prompted. 
 
-You can find more information about this [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+You can find more information about this here:
+* [Github Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ## Creating your first Github repository
 
@@ -145,15 +147,15 @@ Once you created this new repo, Github will automatically show you how to update
   ```
   You need to use this command only for the first time pushing to a repository. After that, you just need to use the shorter version: `git push`.
   
-  **Note:** "main" is the default branch name for some users, while others may have "master" - you can check which yours is here
+6. Now refresh your repo's Github webpage, and you should be seeing everything online there.
+
+**Note:** "main" is the default branch name for some users, while others may have "master" - you can check which yours is here
   
   ![]({{ site.baseurl }}{% link assets/images/github_branchname.png %})
   
   If you would like to change the name of the default branch, you can do so by navigating to Settings > Repositories
   
   ![]({{ site.baseurl }}{% link assets/images/github_defaultbranch.png %})
-  
-6. Now refresh your repo's Github webpage, and you should be seeing everything online there.
 
 Whenever you want to update your repository, repeat steps 2, 3 and 5. You can think about these three steps as if you were sending a package:
 
@@ -161,15 +163,8 @@ Whenever you want to update your repository, repeat steps 2, 3 and 5. You can th
 * Command `git commit -m "note"` is like writing the sending information for the delivery box
 * Command `git push` is like the act of sending out the delivery box
 
-Note that Github also has a desktop app that helps you manage repository update without command line: <https://desktop.github.com>.
-
-Another popular alternative is GitKraken <https://www.gitkraken.com/>.
-
+Note that Github also has a desktop app that helps you manage repository update without command line: <https://desktop.github.com>. Another popular alternative is GitKraken <https://www.gitkraken.com/>.
 If you're interested in learning more about git on the command line, you can find helpful info here: <https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html>.
-
-One of my favorite memes about Github:
-
-![]({{ site.baseurl }}{% link assets/images/github_meme.png %})
 
 ## Going back in time 
 
@@ -181,7 +176,6 @@ If you want a previous version of a file, there are a few steps you'll want to d
   ```
   git log --oneline
   ```
-  
   This allows us to see all of our previous commits, with their IDs. It is this ID that you want when trying to move back in time to a previous file version. 
   
 2. Once you've got the commit ID, type:
