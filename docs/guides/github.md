@@ -89,13 +89,14 @@ Some basic GIT commands you will learn later include: `git init`, `git add`, `gi
 
 ## Authentication 
 
-In order to securely connect the device that you are using git on with your GitHub account, GitHub requires authentication to check that you are who you say you are. Think of this as 'logging in' to your GitHub account on a particular device.
+In order to securely connect the device that you are using with your GitHub account, GitHub requires authentication to check that you are who you say you are. Think of this as 'logging in' to your GitHub account on a particular device.
 
 One way to do this is through SSH - short for `Secure Shell`. One of the good things about SSH is that you can authenticate a device (say your personal laptop) once, and store the key so that you do not need to redo this process. 
-GitHub provides [useful documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to help walk you through the process of first setting up SSH on your device. But we'll also discuss the most important steps here: 
+GitHub provides [useful documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to help walk you through the process of first setting up SSH on your device. But we'll also discuss the most important steps here. 
 
+### Check for existing SSH keys
 The first thing to do is check whether you already have existing SSH keys. This page of the documentation has the instructions in detail, along with the code commands you will want to use in either Git Bash or your terminal. 
-[Checking for existing SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys?platform=mac). 
+[Checking for existing SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys). 
 You can toggle the instructions for your particular operating system (Mac, Windows or Linux). Also, you do not need to navigate to the folder with your local git repo in it just yet.
 
 If you do not have an existing SSH key with one of the three filenames GitHub assigns by default; these are one of: 
@@ -103,18 +104,23 @@ If you do not have an existing SSH key with one of the three filenames GitHub as
 * id_ecdsa.pub
 * id_ed25519.pub
 
-Then it is time to generate a new SSH key! Here are the instructions in full, and we'll highlight the most important parts here [Generating a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+### Generate a new SSH key
+Here are the instructions in full [Generating a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
-There's a little section about passphrases for your SSH key. It's essentially a password for the SSH key. For example, if someone got ahold of your device where you did not have a passphrase for your SSH key, they'd then have access to everything that required previous authentication. Passphrases act as a barrier against this. The downside is that you'll then have to enter it every time you want to use the SSH key to connect to GitHub. However, you can add the passphrase to something called an SSH agent, which will remember the passphrases for each SSH key you've set up. 
+There's a little section about passphrases for your SSH key. It's essentially a password for the SSH key. For example, if someone got ahold of your device where you did not have a passphrase for your SSH key, then they'd have access to everything that required previous authentication. Passphrases act as a barrier against this. The downside is that you'll have to enter it every time you want to use the SSH key to connect to GitHub. However, you can add the passphrase to something called an SSH agent, which will remember the passphrases for each SSH key you've set up. 
 Whether or not you want to set up a passphrase is up to you. 
 
-You'll want to go ahead and generate a new SSH key, and then add the SSH key to the ssh-agent. For Mac and Linux, this can all be done from the Terminal. For Windows users, you will have to take an extra step to run the ssh-agent. You will need to auto-launch the ssh-agent for Git on Windows. The details for this can be found here [Auto-launching ssh-agent on Windows](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases#auto-launching-ssh-agent-on-git-for-windows). 
+### Adding the SSH key to ssh-agent 
+For Mac and Linux, this can all be done from the Terminal. For Windows users, you will have to take an extra step to run the ssh-agent. You will need to auto-launch the ssh-agent for Git on Windows. The details for this can be found here [Auto-launching ssh-agent on Windows](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases#auto-launching-ssh-agent-on-git-for-windows). 
 
-We can then move on adding the SSH key to your GitHub account (we can ignore the hardware security key section). You will find the full details here [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). Here the Git CLI is either your Terminal or Git Bash! 
+### Adding the SSH key to your GitHub account
+We can then move on to adding the SSH key to your GitHub account as we'll ignore the hardware security key section. You will find the full details here [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). 
+**Note:** Where the documtation mentions the Git CLI, it is either your Terminal or Git Bash 
 
 Further, if you already have a local repo connection set up (with personal access tokens, for example), you can find the details on how to switch over to SSH here [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh)
 
-The last thing to do to set up authenatication with SSH is to test the connection. The instructions are comparatively straightforward for this (no huge differences for Windows thankfully) [Testing your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
+### Test the connection
+This is the last step of setting up SSH. The instructions are comparatively straightforward for this (no huge differences for Windows thankfully) [Testing your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
 
 ## Personal Access Tokens
 
