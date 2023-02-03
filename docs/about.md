@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-nav_order: 6
+nav_order: 7
 ---
 
 # About
@@ -12,6 +12,7 @@ nav_order: 6
 * [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
 * [Giulia Giganti](https://www.ed.ac.uk/profile/giulia-giganti)
 * [Georgia-Ann Carter](https://gacarter.github.io/)
+* [Ponrawee Prasertsom](https://ponraw.ee/)
 
 ## Past team members
 
