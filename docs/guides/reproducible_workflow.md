@@ -166,7 +166,7 @@ You can get started with Git by reading [our guide for Github]({% link docs/guid
 
 ## Advanced topics
 
-While our guides certainly help with reproducibility, *guaranteeing* computational reproducibility is difficult. Even if all the data and code are well-documented, different machines may have different software versions that affect the results in unexpected ways. Solutions to this problem range from simple (but less effective) such as using the [renv](https://rstudio.github.io/renv/articles/renv.html) package, to complex (but more reliable) such as using [Docker](https://docker.com).
+While our guides certainly help with reproducibility, *guaranteeing* computational reproducibility is difficult. Even if all the data and code are well-documented, different machines may have different software versions that affect the results in unexpected ways. Solutions to this problem range from simple (but less effective) such as using the [renv](https://rstudio.github.io/renv/articles/renv.html) package to complex (but more reliable) such as using [Docker](https://docker.com). The former records the specific versions of the R packages you use in your project, and streamlines downloading/installing them on a new machine. The latter packages everything about your project, from the OS you use, the files and the software. You can follow the links provided here to learn more.
 
 ## Acknowledgement
 Most of the content here is drawn from Kitzes, Turek and Deniz's book [*The Practice of Reproducible Research*](http://www.practicereproducibleresearch.org/), and Çetinkaya-Rundel's talk [*Improving your workflow for reproducible science*](https://www.youtube.com/watch?v=JA-vLsN-sic).
