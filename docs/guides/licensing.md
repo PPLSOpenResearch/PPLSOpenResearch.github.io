@@ -2,7 +2,7 @@
 layout: default
 title: Data Licensing
 parent: Guides
-nav_order: 6
+nav_order: 7
 ---
 
 # Data Licensing
