@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Archive
+parent: Events
 nav_order: 1
 has_children: true
-parent: Events
 ---
 
 # Past Events
