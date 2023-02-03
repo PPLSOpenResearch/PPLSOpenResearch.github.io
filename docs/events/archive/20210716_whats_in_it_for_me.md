@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2021-07-16 What's in it
-parent: Events
+parent: Archive
 nav_order: 8
 ---
 

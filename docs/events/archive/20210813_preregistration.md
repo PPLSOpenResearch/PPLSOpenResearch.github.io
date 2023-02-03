@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2021-08-13 Pre-registration
-parent: Events
+parent: Archive
 nav_order: 7
 ---
 

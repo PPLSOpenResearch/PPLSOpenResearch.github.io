@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2021-09-10 Open Data
-parent: Events
+parent: Archive
 nav_order: 5
 ---
 
