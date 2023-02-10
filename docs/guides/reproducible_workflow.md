@@ -120,9 +120,9 @@ The main Github page (the page for the directory `awesome_experiment`) will look
 As with any other project involving code, your analysis script should be properly commented.
 In R, anything written after `#` will be taken as comments and not be evaluated as R code.
 Your code should not simply be a paraphrase of what the code *means*, but should describe what the code is *for* when the code is complex, as well as document your decisions that are not immediately clear.
-
 Thus, your comment should not be of the kind `X <- 5 # assign 5 to X`.
 Rather, it should be of the kind `# create anonymised data from the raw data`, placed at the start of the code that replaces real names with participant IDs. 
+
 In addition to this, particularly useful are comments that tell you why you choose specific values for some parameters. 
 For example, you might comment that you set `maxfun` to `20000` because it helps the model converge in regression fitting: 
 
