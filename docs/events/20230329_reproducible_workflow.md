@@ -27,7 +27,7 @@ In this workshop, we will discuss:
 ## Materials
 
 - [Reproducible Workflow]({{ site.baseurl }}{% link docs/guides/reproducible_workflow.md %}).
-- [Slides PDF]({{ site.baseurl }}{% link assets/pdfs/OpenData.pdf %})
+- [Slides PDF]({{ site.baseurl }}{% link assets/pdfs/pplsopenresearch_reproducible_workflow_slides.pdf %})
 
 ## Registration
 You can register for the event [here](https://www.eventbrite.co.uk/e/ppls-open-research-reproducible-workflow-and-rmarkdown-workshop-tickets-592275470877)
