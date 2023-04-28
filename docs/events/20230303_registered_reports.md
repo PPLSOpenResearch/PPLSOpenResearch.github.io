@@ -26,7 +26,7 @@ We will have Melissa Thye, a 4th year PhD student in Psychology, to discuss her 
 
 ## Materials
 
-[Slides (PDF)]({{ site.baseurl }}{% link assets/pdf/OpenResearch_RegisteredReports.pdf %})
+[Slides (PDF)]({{ site.baseurl }}{% link assets/pdfs/OpenResearch_RegisteredReports.pdf %})
 
 You can read more about registered reports on our pre-registration guide. 
 [Pre-registrations]({{ site.baseurl }}{% link docs/guides/preregistration.md %}).
