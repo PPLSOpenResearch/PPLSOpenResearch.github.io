@@ -2,7 +2,7 @@
 layout: default
 title: 2021-08-13 Pre-registration
 parent: Archive
-nav_order: 7
+nav_order: 2
 ---
 
 # Hands-on Workshop on Pre-registration

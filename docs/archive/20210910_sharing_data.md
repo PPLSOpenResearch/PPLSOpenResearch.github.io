@@ -2,7 +2,7 @@
 layout: default
 title: 2021-09-10 Open Data
 parent: Archive
-nav_order: 5
+nav_order: 4
 ---
 
 # Hands-on Workshop on Open Data

@@ -2,7 +2,7 @@
 layout: default
 title: 2021-08-27 Github
 parent: Archive
-nav_order: 6
+nav_order: 3
 ---
 
 # Hands-on Workshop: Introduction to Github

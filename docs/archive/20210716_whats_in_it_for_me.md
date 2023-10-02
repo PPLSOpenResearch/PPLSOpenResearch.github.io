@@ -2,7 +2,7 @@
 layout: default
 title: 2021-07-16 What's in it
 parent: Archive
-nav_order: 8
+nav_order: 1
 ---
 
 # Open Research: what’s in it for me?
