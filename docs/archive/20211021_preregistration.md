@@ -2,7 +2,7 @@
 layout: default
 title: 2021-10-21 Pre-registration
 parent: Archive
-nav_order: 3
+nav_order: 6
 ---
 
 # How-to: Pre-registration

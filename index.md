@@ -10,7 +10,7 @@ nav_order: 1
 Welcome to this information hub for open research practices at the School of Philosophy, Psychology and Language Sciences.
 {: .fs-6 .fw-300 }
 
-[Getting started]({{ site.baseurl }}{% link docs/guides/principles.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Upcoming events]({{ site.baseurl }}{% link docs/events/20230329_reproducible_workflow.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Getting started]({{ site.baseurl }}{% link docs/guides/principles.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -28,9 +28,9 @@ Open Research is transparent and accessible knowledge that is shared and develop
 
 ## Recent Events
 
-* Feb 17, [PPLS Open Research Github Workshop]({{ site.baseurl }}{% link docs/events/20230217_github.md %})!
+* Feb 17, [PPLS Open Research Github Workshop]({{ site.baseurl }}{% link docs/archive/20230217_github.md %})!
 
-* Mar 03, [PPLS Open Research Registered Reports Workshop]({{ site.baseurl }}{% link docs/events/20230303_registered_reports.md %})!
+* Mar 03, [PPLS Open Research Registered Reports Workshop]({{ site.baseurl }}{% link docs/archive/20230303_registered_reports.md %})!
 
 
 [View all past events]({{ site.baseurl }}{% link docs/archive/index.md %})

@@ -2,7 +2,7 @@
 layout: default
 title: 2023-03-03 Registered Reports
 parent: Archive
-nav_order: 2
+nav_order: 16
 ---
 
 # Registered Reports Workshop
