@@ -2,7 +2,7 @@
 layout: default
 title: 2021-11-04 Github
 parent: Archive
-nav_order: 2
+nav_order: 7
 ---
 
 # Introduction to Github
