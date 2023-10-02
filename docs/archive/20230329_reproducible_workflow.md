@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 2023-03-29 Reproducible Workflow and RMarkdown
-parent: Events
-nav_order: 3
+parent: Archive
+nav_order: 17
 ---
 
 # Reproducible Workflow and RMarkdown Workshop

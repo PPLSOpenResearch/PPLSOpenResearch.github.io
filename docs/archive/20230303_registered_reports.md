@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2023-03-03 Registered Reports
-parent: Events
+parent: Archive
 nav_order: 2
 ---
 
