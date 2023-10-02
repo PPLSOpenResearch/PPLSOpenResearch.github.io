@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2023-03-29 Reproducible Workflow and RMarkdown
+title: 2023-03-29 Reproducible Workflow
 parent: Archive
 nav_order: 17
 ---
