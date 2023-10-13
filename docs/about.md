@@ -9,15 +9,16 @@ nav_order: 8
 
 ## Current team
 
-* [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+* [Neil Bramley](https://www.bramleylab.ppls.ed.ac.uk/member/neil/)
 * [Giulia Giganti](https://www.ed.ac.uk/profile/giulia-giganti)
-* [Georgia-Ann Carter](https://gacarter.github.io/)
 * [Ponrawee Prasertsom](https://ponraw.ee/)
 
 ## Past team members
 
 * [Alex Lorson](https://alex-lorson.github.io)
 * [Bonan Zhao](https://zhaobn.github.io)
+* [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/)
+* [Georgia-Ann Carter](https://gacarter.github.io/)
 
 ## Contact
 
