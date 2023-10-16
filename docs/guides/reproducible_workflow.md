@@ -76,13 +76,13 @@ In the context of reproducible workflow, the README file could describe, in diff
 
 - What the important files and directories are: `figures` contains the generated plots, and `processed_data/processed_data.csv` contains the collected data after anonymisation, and so on
 - Steps to reproduce: The list of steps to produce your results (e.g., statistics and figures), from installing the required software to the script(s) to run
-- The structure of the data: The meaning of each column of your primary data file. For example, you might have a column called `logRT` for `log-transformed reaction time`, and `response` for the button that in your experiment, etc. This section 
+- The structure of the data: The meaning of each column of your primary data file. For example, you might have a column called `logRT` for `log-transformed reaction time`, and `response` for the button that in your experiment, etc. 
 - Other information you think might be relevant for the reproducer
 
 If your project is small, you can provide all information in a single README file that lives in the root of your project (the main directory). 
 If it is bigger, e.g., if you have multiple sub-experiments, you may want to create different README files for different experiments, and one README file that lives in the main directory that gives an overview.
 
-Your README could be a text file (`README.txt`), but if you host your project on [Github]({% link docs/guides/github.md %}), its is a good idea to use (see [this tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to start). 
+Your README could be a text file (`README.txt`), but if you host your project on [Github]({% link docs/guides/github.md %}), its is a good idea to use Markdown (see [this tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to start). 
 On Github, the file named `README.md` will be automatically rendered when the user navigates to the directory that contains it. For example, if you have a `README.md` file that contains the following:
 
 ```

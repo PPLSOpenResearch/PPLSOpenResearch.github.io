@@ -11,6 +11,7 @@ Welcome to this information hub for open research practices at the School of Phi
 {: .fs-6 .fw-300 }
 
 [Getting started]({{ site.baseurl }}{% link docs/guides/principles.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Book us!]({{ site.baseurl }}{% link docs/appointments.md %}){: .btn .btn-secondary .fs-5 .mb-4 .mb-md-0 .mr-2 }{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
