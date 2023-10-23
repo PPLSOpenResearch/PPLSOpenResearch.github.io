@@ -17,7 +17,7 @@ Welcome to this information hub for open research practices at the School of Phi
 
 ## Upcoming Events
 
-* Nov 1, [PPLS Open Research Pre-registration Workshop]({{ site.baseurl }}{% link docs/events/20231101_prereg.md %})
+* Nov 1, [PPLS Open Research Pre-registration Workshop]({{ site.baseurl }}{% link docs/archive/20231101_prereg.md %})
 
 ---
 
