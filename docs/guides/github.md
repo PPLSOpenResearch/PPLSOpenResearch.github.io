@@ -158,7 +158,7 @@ As a sum-up, try this [GitHub 'Hello World' Project](https://guides.github.com/a
 
 ## Acknowledgement
 
-Most of the content in this tutorial is adapted from [HackYourFuture](https://github.com/HackYourFuture)'s [teaching material](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md), maintained by their awesome volunteers.
+This tutorial draws from a combination of sources, chiefly [the GitHub documentation](https://docs.github.com) and [HackYourFuture](https://github.com/HackYourFuture)'s [teaching material](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md), maintained by their awesome volunteers.
 
 ## Authors
 - Bonan Zhao (Aug 1, 2021; Original author)
