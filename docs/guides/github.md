@@ -53,7 +53,7 @@ GitHub allows us to freely store the files online (or remotely, as most develope
 
 There are two main ways you can use GIT. The first is to use it using **command lines**, where you directly type commands to work with GIT. 
 This is the traditional way and provides you with great flexibility, but can be tough for beginners with little experience. 
-If you are interested in working with GIT this way, you can check out GitHub's guides on how to use GIT.
+If you are interested in working with GIT this way, you can check out [GitHub's guides on how to use GIT](https://docs.github.com/en/get-started/using-git).
 This guide will instead focus on how to use a graphical program (a program with buttons, menus, and the like) called **GitHub Desktop** instead.
 
 <details markdown="block">
