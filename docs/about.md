@@ -12,6 +12,7 @@ nav_order: 8
 * [Neil Bramley](https://www.bramleylab.ppls.ed.ac.uk/member/neil/)
 * [Giulia Giganti](https://www.ed.ac.uk/profile/giulia-giganti)
 * [Ponrawee Prasertsom](https://ponraw.ee/)
+* [Naiti Bhatt](https://naitisb.github.io/)
 
 ## Past team members
 
