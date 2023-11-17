@@ -12,6 +12,6 @@ Live at: <https://pplsopenresearch.github.io>
 
 ## Notes
 
-* First developed by [Bonan Zhao](https://www.bramleylab.ppls.ed.ac.uk/member/bonan/) and [Alex Lorson](https://alex-lorson.github.io), previous Open Research Facilitators at the School of Philosophy, Psychology and Language Sciences, University of Edinburgh. It was thoroughly updated and maintained by [Georgia-Ann Carter](https://gacarter.github.io/), former Open Research Facilitator at the School of Philosophy, Psychology and Language Sciences, University of Edinburgh. Currently maintained and updated by [Ponrawee Prasrtsom](https://ponraw.ee)
+* First developed by [Bonan Zhao](https://www.bramleylab.ppls.ed.ac.uk/member/bonan/) and [Alex Lorson](https://alex-lorson.github.io), previous Open Research Facilitators at the School of Philosophy, Psychology and Language Sciences, University of Edinburgh. It was thoroughly updated and maintained by [Georgia-Ann Carter](https://gacarter.github.io/), former Open Research Facilitator at the School of Philosophy, Psychology and Language Sciences, University of Edinburgh. Currently maintained and updated by [Ponrawee Prasrtsom](https://ponraw.ee) and [Naiti Bhatt](https://naitisb.github.io/).
 
 * Template from [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs)
