@@ -17,7 +17,7 @@ Welcome to this information hub for open research practices at the School of Phi
 
 ## Upcoming Events
 
-* Nov 1, [PPLS Open Research Pre-registration Workshop]({{ site.baseurl }}{% link docs/events/20231101_prereg.md %})
+* Nov 23, [PPLS Open Research Git and GitHub Workshop]({{ site.baseurl }}{% link docs/events/20231123_github.md %})
 
 ---
 
@@ -34,6 +34,8 @@ Open Research is transparent and accessible knowledge that is shared and develop
 ---
 
 ## Recent Events
+* Nov 1, [PPLS Open Research Pre-registration Workshop]({{ site.baseurl }}{% link docs/events/20231101_prereg.md %})
+
 * Oct 18, [PPLS Open Research Blitz Talk]({{ site.baseurl }}{% link docs/archive/20231018_blitz.md %})
 
 * Feb 17, [PPLS Open Research Github Workshop]({{ site.baseurl }}{% link docs/archive/20230217_github.md %})!
