@@ -31,36 +31,18 @@ Code review is the process of methodically and systematically checking over code
 Given the upcoming conference deadlines that many of us are working towards, we’re excited to invite you to make use of our new Pre-Conference Peer Code Review program. 
 
 You can submit your codebase to our Open Research team for reviewing any of the following:
-<ol>
-  <li>
-    <dl>
-      <dt> Does it run? </dt>
-      <dd>- Language-independent review </dd>
-      <dd>- Receive feedback within 24 hours </dd>
-    </dl>
-  </li>
-  <li>
-    <dl>
-      <dt> Is it reproducible? </dt>
-      <dd>- Language-independent review </dd>
-      <dd>- Receive feedback in 48-72 hours </dd>
-    </dl>
-  </li>
-  <li>
-    <dl>
-      <dt> Is it auditable and understandable? </dt>
-      <dd>- Language-dependent review </dd>
-      <dd>- Receive feedback in 1 week </dd>
-    </dl>
-  </li>
-  <li>
-    <dl>
-      <dt> Does it follow best practices? </dt>
-      <dd>- Language-dependent review </dd>
-      <dd>- Receive feedback in 1-2 weeks </dd>
-    </dl>
-  </li>
-</ol>
+1. Does it run?
+    - Language-independent review
+    - Receive feedback within 24 hours
+2. Is it reproducible?
+   - Language-independent review
+   - Receive feedback in 48-72 hours
+3. Is it auditable and understandable?
+   - Language-dependent review
+   - Receive feedback in 1 week
+4. Does it follow best practices?
+   - Language-dependent review
+   - Receive feedback in 1-2 weeks
 
 For language-dependent review, our current team can help with projects using Python, R, MatLab, C++, Java, Linux, Docker, Singularity, and HTML/CSS.  
 
