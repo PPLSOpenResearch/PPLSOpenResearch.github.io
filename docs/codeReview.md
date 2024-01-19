@@ -44,7 +44,7 @@ You can submit your codebase to our Open Research team for reviewing any of the 
    - Language-dependent review
    - Receive feedback in 1-2 weeks
 
-For language-dependent review, our current team can help with projects using Python, R, MatLab, C++, Java, Linux, Docker, Singularity, and HTML/CSS.  
+For language-dependent review, our current team can help with projects using Python, R, PHP, MatLab, C++, Java, Javascript, TypeScript, Linux, Docker, Singularity, and HTML/CSS.  
 
 Please ensure that your review package includes: 
 
