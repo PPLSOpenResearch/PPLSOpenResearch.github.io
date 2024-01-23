@@ -26,7 +26,7 @@ Code review is the process of methodically and systematically checking over code
 
 ---
 
-## Pre-conference Peer Code Review: January 2024
+## Debut of Peer Code Review: January 2024
 
 Given the upcoming conference deadlines that many of us are working towards, we’re excited to invite you to make use of our new Pre-Conference Peer Code Review program. 
 
