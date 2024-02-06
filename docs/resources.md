@@ -72,7 +72,9 @@ nav_order: 5
 
 ## Open Access publication
 
+- [University Open Access site](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access)
 - [University Open Access journal article claim form](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/journal-article-open-access-claim-form)
+- [University Read & Publish journal list](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/read-and-publish-journals)
 - [University Open Access publication funds](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/request-apc-payment)
 - [Article Processing Charge (APC) waiver for Glossa](https://www.glossa-journal.org/about/submissions/)
 - [Plan S initiative](https://www.coalition-s.org/why-plan-s/)
