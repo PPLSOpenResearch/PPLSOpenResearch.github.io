@@ -79,7 +79,7 @@ nav_order: 5
 - [Article Processing Charge (APC) waiver for Glossa](https://www.glossa-journal.org/about/submissions/)
 - [Plan S initiative](https://www.coalition-s.org/why-plan-s/)
 - Preprint servers: [PsyArXiv](https://psyarxiv.com/), [OSF](https://osf.io/), [arXiv](https://arxiv.org/), [Pure (University of Edinburgh)](https://www.ed.ac.uk/information-services/research-support/research-information-management/pure)
-- Find OA journals for [linguistics](https://oaling.wordpress.com/), [psychology](https://open-access.net/en/open-access-in-individual-disciplines/psychology), and [check journal policies](https://v2.sherpa.ac.uk/romeo/)
+- Find OA journals for [linguistics](https://oaling.wordpress.com/), [psychology](https://open-access.network/en/information/subject-specific-open-access/psychology), and [check journal policies](https://v2.sherpa.ac.uk/romeo/)
 
 ---
 
