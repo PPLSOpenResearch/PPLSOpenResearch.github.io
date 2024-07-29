@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 2024-04-19 Registered Reports
-parent: Events
-nav_order: 1
+parent: Archive
+nav_order: 22
 ---
 
 # Registered Reports Workshop
@@ -24,11 +24,6 @@ In this Registered Reports workshop, we will discuss:
 
 ## Registration
 You can book a spot on Eventbrite: [Click here](https://www.eventbrite.co.uk/e/ppls-open-research-registered-reports-workshop-tickets-860944577407)
-
-
-## Materials
-
-To be added
 
 You can read more about registered reports on our pre-registration guide. 
 [Pre-registrations]({{ site.baseurl }}{% link docs/guides/preregistration.md %}).

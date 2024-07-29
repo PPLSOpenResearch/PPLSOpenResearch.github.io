@@ -54,6 +54,10 @@ nav_order: 8
 * If you wish to pre-print, does your journal of choice accept previously pre-printed manuscripts? 
 * Have you included an OSF/Github/repo link in your manuscript? 
 
+## University's Open Access checklist
+
+* Be sure to also check out [the University's official open access check list](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/open-access-checklist-for-uoe-authors).
+
 ---
 
 <!-- [Next: Preregistration Guide]({{ site.baseurl }}{% link docs/guides/preregistration.md %}) -->
