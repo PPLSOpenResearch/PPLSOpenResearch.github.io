@@ -24,13 +24,14 @@ Code review is the process of methodically and systematically checking over code
 - [From a software development angle](https://about.gitlab.com/topics/version-control/what-is-code-review/)
 - [From a researcher's viewpoint](https://debruine.github.io/talks/CompCogSci-2023/)
 
+Code review is popular among researchers at other institutions (see, e.g., Lisa DeBruine's [awesome code review guide](https://code-check-club.github.io/code-review-guide/) from Glasgow), and we are excited to bring it to Edinburgh! 
+
 ---
 
-## Debut of Peer Code Review: January 2024
-
-Given the upcoming conference deadlines that many of us are working towards, we’re excited to invite you to make use of our new Pre-Conference Peer Code Review program. 
+## Code Review at PPLS Open Research
 
 You can submit your codebase to our Open Research team for reviewing any of the following:
+
 1. Does it run?
     - Language-independent review
     - Receive feedback within 24 hours
@@ -59,11 +60,5 @@ Please ensure that your review package includes:
 &nbsp;&nbsp;&nbsp;&nbsp; ✓ A main script that runs any subscripts in the relevant order
 
 We look forward to hearing from you and helping you with your submissions! 
-
----
-
-## Code Review at PPLS Open Research
-
-Stay tuned for more information!
 
 ---
