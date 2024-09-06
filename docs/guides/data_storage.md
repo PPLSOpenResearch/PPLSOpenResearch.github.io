@@ -56,13 +56,13 @@ I maintain an original copy of data generated in my lab in:
 
 If navigating through the DataStore network drive manually, you should see a folder “chss” (college of arts, humanities & social sciences), and within that there is a folder “/ppls”. Within ppls, there is a folder called “users” with a subfolder for every staff member’s unique username. Scroll to find yours and you should be able to add files to this folder (maybe create a shortcut to go straight there). 
 
-To request access if you do not have a space already. Or to add users to your lab group, fill in the form [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/request-datastore-access).
+To request access if you do not have a space already, or to add users to your lab group, fill in the form [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/request-datastore-access).
 
 **The good**
 
-It’s bombproof: Data you put here is triple backed up, so very safe from loss accessible both on and off campus
+It’s bombproof: Data you put here is triple backed up, so very safe from loss, and accessible to the research team and appropriate administrators only, both on and off campus.
 
-It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term cold storage. 
+It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term "cold storage". 
 
 **The bad**
 
