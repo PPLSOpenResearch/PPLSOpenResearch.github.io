@@ -21,10 +21,12 @@ nav_order: 2
 
 ---
 
-The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The primary emphasis is on ensuring "golden copy" of any data you are responsible for stored somewhere it will definitely not be lost or inappropriately leaked with options for sharing and actively working on data highlighted further down the page. The "Too long; Didn't read" summary is you should generally make sure you have a copy of your data in the university DataStore network drive.
+The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The primary emphasis is on ensuring that a "golden copy" of any data you are responsible is stored somewhere safe, where it will definitely not be lost, inappropriately leaked, sold or monetised.  Beyond this I highlight various options for sharing and actively working on data, further down the page.
+
+Too long; Didn't read summary:** If in doubt, archive your research data on the DataStore network drive.
 
 
-# "In house" options at the University of Edinburgh
+# In house options
 
 ## DataStore
 
@@ -120,7 +122,7 @@ Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 [DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. Unfortunately in this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
 
 
-# "Third-party" services
+# Third-party services
 
 ## Open Science Framework (OSF)
 
@@ -151,7 +153,7 @@ Dropbox is a widely used service for syncing files across machines (and in the C
 **The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
 
 
-## Your own laptop or your own external hard drive or USB drive
+## Your own integral or external hard drives
 
 According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): You should encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* **Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly so fall far short of the university’s triple-backed up network drive as a place for safekeeping data.
 
