@@ -67,11 +67,13 @@ It is sluggish. At least on a Mac, it can take a minute to index the folders whe
 
 **What is it?**
 
-Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. [This](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business) is a useful link if you have any difficulty with this. In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
+Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. More information available [here](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business). In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
+
+**However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of your research data\!**
+
+When researchers and students move on from Edinburgh university or change roles, their OneDrive folder is irrevocably deleted. There have been instances of data loss through the practice of keeping data on OneDrive. **Please do not do this\!**
 
 ![](/assets/images/onedrive_sharepoint.png)
-
-**However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of research data\!** When researchers move on from the university their OneDrive gets deleted. There have been instances of data loss through the practice of keeping data on OneDrive. Please do not do this\!
 
 
 ## DataShare
