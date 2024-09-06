@@ -85,7 +85,7 @@ When researchers and students move on from Edinburgh university or change roles,
 
 **What is it?**
 
-[DataShare](https://datashare.ed.ac.uk/) is a University managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional. After you upload a central collection curation team will double check everything looks good before the link goes live.
+[DataShare](https://datashare.ed.ac.uk/) is a University-managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional. After you upload a central collection curation team will double check everything looks good before the link goes live.
 
 **The good**
 
@@ -93,7 +93,7 @@ This is perhaps the most professional way to provide the general public with acc
 
 **The bad**
 
-The web interface is a little buggy to use, often I get a 503 error and have to reload on first landing. Upload can take about 1 minute per Gb. You have to wait a couple of days for the curtion team to check things before you get the live link.
+The web interface is a little buggy to use, often I get a 503 error and have to reload on first landing. Upload can take about 1 minute per Gb. You have to wait a couple of days for the curation team to check things before you get the live link.
 
 ## DataVault
 
@@ -107,7 +107,7 @@ Puts data somewhere safe and “out of the way” where it cannot be accidentall
 
 **The bad**
 
-At time of writing, I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully. You must provide the DataStore path to the data in a slightly different format than how the path appears on your computer. You should also spend a little time documenting what you are storing so someone (even you) can make sense of it in the distant future. I found that the central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
+I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully. You must provide the DataStore path to the data in a slightly different format than how the path appears on your computer. You should also spend a little time documenting what you are storing so someone (even you) can make sense of it in the distant future. I found that the central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
 
 ## Sharepoint
 
@@ -126,15 +126,15 @@ Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 
 **What is it?**
 
-The [OSF](https://osf.io/), or Open Science Framework, is a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication and also a helpful palace for providing code and data associated with a project.
+The [OSF](https://osf.io/), or Open Science Framework, is currently a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication, and also a widely used "repository" for providing open source code and data associated with a publications and research projects.
 
 **The good**
 
-Edinburgh currently has a [professional partnership with OSF](https://library.ed.ac.uk/research-support/research-data-service/during/open-research-tools/osf), making it a great and appropriate place for sharing data and code. You can sign in with your University credentials, there is integration with OneDrive. The site runs smoothly and is intuitive to use. You can make your projects public or private, embargo them until a certain date, or create anonymised links to repositories for including supplementary materials with submissions to journals and conferences requiring double blinded reviewing. 
+Edinburgh currently has a [professional partnership with OSF](https://library.ed.ac.uk/research-support/research-data-service/during/open-research-tools/osf), making it a wholly appropriate place for sharing data and code (at least for now). You can sign in with your University credentials, there is integration with OneDrive. The site runs smoothly and is intuitive to use. You can make your projects public or private, embargo them until a certain date, or create anonymised links to repositories for including supplementary materials with submissions to journals and conferences requiring double-blinded reviewing. 
 
 **The bad**
 
-As a third party your link might not be freely available in the long term. The company may go bust or start to monetise in ways that make it a little less of a sure bet than an “in house” option.
+As a third party, your link might not be freely available in the long term. The company may go bust, start to monetise in ways that make it a little less of a sure bet than an “in-house” option.
 
 ## Github
 
@@ -150,6 +150,9 @@ Dropbox is a widely used service for syncing files across machines (and in the C
 
 **The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
 
+## On Qualtrics or Testable
+
+Common online data collection third-party services Qualtrics and Testable are currently under professional contracts with Edinburgh University and PPLS respectively. Their business models involve their holding a cloud copy of data you collect through them and encouraging you to draw it down directly from there for your analyses. **Tempting as it is, this is not an appropriate or adequate solution for retaining the ‘golden copy’ of research data. Please ensure you download the data and keep it in one of the places described above. It is commonplace to have difficulty reaching graduated students' to access data linked to their Qualtrics or Testable accounts. Moreover, as a third party service, if we end our contract with these companies we will lose free access to the data, and there are other dangers of it being sold or monetised.**
 
 ## Your own integral or external hard drives
 
