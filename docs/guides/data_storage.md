@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Data Storage
+title: Data storage
 parent: Guides
 nav_order: 5
 ---
 
-# Data Licensing
+# Data Storage
 {: .no_toc }
 
 <details open markdown="block">
@@ -34,7 +34,7 @@ For example, I (Neil Bramley) keep my archived research data in:
 I maintain an original copy of data generated in my lab in:  
 > smb://chss.datastore.ed.ac.uk/chss/ppls/groups/bramleyccslab.
 
-### How to get started?
+### How to get started?{: .no_toc }
 
 Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) – For this to work, you have to be connected to campus wifi or ethernet or to the university’s [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn).
 
