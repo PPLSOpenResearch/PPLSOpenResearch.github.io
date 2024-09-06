@@ -19,7 +19,10 @@ nav_order: 2
 
 ---
 
-# "In house" options
+The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The primary emphasis is on ensuring "golden copy" of any data you are responsible for stored somewhere it will definitely not be lost or inappropriately leaked with options for sharing and actively working on data highlighted further down the page. The "Too long; Didn't read" summary is you should generally make sure you have a copy of your data in the university DataStore network drive.
+
+
+# "In house" options at the University of Edinburgh
 
 ## DataStore
 
