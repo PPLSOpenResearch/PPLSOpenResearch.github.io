@@ -72,11 +72,11 @@ It is sluggish. At least on a Mac, it can take a minute to index the folders whe
 
 **What is it?**
 
-Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. More information available [here](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business). In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
+Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. More information is available [here](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business). In principle, users can keep up to 1Tb of files in OneDrive and internal surveying shows that many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
 
-**However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of your research data\!**
+**However, OneDrive is not an appropriate place for keeping the ‘primary’ or ‘golden copy’ of your research data\!**
 
-When researchers and students move on from Edinburgh university or change roles, their OneDrive folder is irrevocably deleted. There have been instances of data loss through the practice of keeping data on OneDrive. **Please do not do this\!**
+When researchers and students move on from Edinburgh university or change roles, their OneDrive folder is irrevocably deleted. There have been instances in PPLS of data loss due to the practice of keeping data solely on OneDrive. The potential for serious losses, and associated reputational embarrassment is high. **Please do not do this\!**
 
 ![](/assets/images/onedrive_sharepoint.png)
 
@@ -85,7 +85,7 @@ When researchers and students move on from Edinburgh university or change roles,
 
 **What is it?**
 
-[DataShare](https://datashare.ed.ac.uk/) is a service for hosting data so it is publicly available at the end of a link. Currently, you can host sharable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or other 3rd party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional.
+[DataShare](https://datashare.ed.ac.uk/) is a University managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional. After you upload a central collection curation team will double check everything looks good before the link goes live.
 
 **The good**
 
