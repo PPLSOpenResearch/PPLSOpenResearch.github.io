@@ -73,11 +73,6 @@ Onedrive is a core part of the University’s current Office 365 ecosystem. Acce
 
 **However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of research data\!** When researchers move on from the university their OneDrive gets deleted. There have been instances of data loss through the practice of keeping data on OneDrive. Please do not do this\!
 
-## Sharepoint
-
-**What is it?**
-
-Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
 
 ## DataShare
 
@@ -107,6 +102,12 @@ Puts data somewhere safe and “out of the way” where it cannot be accidentall
 
 At time of writing, I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully: e.g. you must provide the DataStore path to the data in a slightly different format than the path on your computer. You should also spend a little time documenting what you are storing so someone can make sense of it in the distant future. The central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
 
+## Sharepoint
+
+**What is it?**
+
+Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
+
 ## DataSync
 
 [DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. Unfortunately in this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
@@ -114,7 +115,7 @@ At time of writing, I found the first time you create a vault, there are a coupl
 
 # Third party services
 
-## OSF: Open Science Framework
+## Open Science Framework (OSF)
 
 **What is it?**
 
@@ -128,6 +129,12 @@ Edinburgh currently has a [professional partnership with OSF](https://library.ed
 
 As a third party your link might not be freely available in the long term. The company may go bust or start to monetise in ways that make it a little less of a sure bet than an “in house” option.
 
+## Github
+
+Github is great for code but you can’t really keep much data in a github repository. At time of writing there was a 100Gb limit on repository sizes, and the workflow of pushing and pulling changes to the cloud is not really geared for working with large files. Repositories are, by default, publically accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. However it is the industry standard for version control of large coding projects.
+
+If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
+
 ## Dropbox
 
 Dropbox is a widely used service for syncing files across machines (and in the Cloud).  
@@ -136,11 +143,6 @@ Dropbox is a widely used service for syncing files across machines (and in the C
 
 **The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
 
-## Github
-
-Github is great for code but you can’t really keep much data in a github repository. At time of writing there was a 100Gb limit on repository sizes, and the workflow of pushing and pulling changes to the cloud is not really geared for working with large files. Repositories are, by default, publically accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. However it is the industry standard for version control of large coding projects.
-
-If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
 
 ## Your own laptop or your own external hard drive or USB drive
 
