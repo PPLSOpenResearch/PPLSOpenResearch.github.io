@@ -5,7 +5,7 @@ parent: Guides
 nav_order: 2
 ---
 
-# Data Storage
+# Where to store your data and code
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,7 +19,7 @@ nav_order: 2
 
 ---
 
-# Where to store your data and code
+# In house services
 
 ## DataStore
 
