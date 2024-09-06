@@ -93,27 +93,27 @@ This is perhaps the most professional way to provide the general public with acc
 
 **The bad**
 
-The web interface is a little buggy to use and upload can take a few minutes.
+The web interface is a little buggy to use, often I get a 503 error and have to reload on first landing. Upload can take about 1 minute per Gb. You have to wait a couple of days for the curtion team to check things before you get the live link.
 
 ## DataVault
 
-While DataStore is appropriate for archiving data for completed projects, there is an additional service [DataVault](https://datavault.ed.ac.uk/) for “cold storage” of larger chunks of data for the long term, allowing you to free up space in DataStore. At the link above you can create a DataVault and add folders from DataStore to it. They will then be deposited and become safe to delete from DataStore. At time of writing Vaults for projects under 100Gb are free, and larger vaults may be funded from a prepaid slice purchased by PPLS or paid for by individuals with grant money. When the retention period expires (e.g. in 10 years)  the registered owner of the data, or a delegated IT person will be contacted about what should be done with it.
+While DataStore is appropriate for archiving data for completed projects, there is an additional service [DataVault](https://datavault.ed.ac.uk/) for “cold storage” of large chunks of data for the long term. This allowing you to free up space in DataStore for data you are more likely to want to access. At the link above, you can create a DataVault and add folders from DataStore to it. They will then be deposited and become safe to delete from DataStore once you get the confirmation email. At time of writing Vaults for projects under 100Gb are free, and larger vaults may be funded from a prepaid slice purchased by PPLS or paid for by individuals with grant money. When the retention period expires (e.g. a default retention period might be 10 years) the registered owner of the data, or if necessary a delegated IT person, will be contacted about what should be done with it.
 
-Note, in future, moving large pieces of PPLS-owned data that have not been needed in a long time to DataVault may be coordinated partly by our IT team.
+Note, in future, a process prompting researchers to move large PPLS-owned datasets to DataVault if they are inactive for a long time may be coordinated by the PPLS IT team.
 
 **The good**
 
-Puts data somewhere safe and “out of the way” where it cannot be accidentally deleted and is not using up your disk allocation.
+Puts data somewhere safe and “out of the way” where it cannot be accidentally deleted and is not using up your lab's disk allocation.
 
 **The bad**
 
-At time of writing, I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully: e.g. you must provide the DataStore path to the data in a slightly different format than the path on your computer. You should also spend a little time documenting what you are storing so someone can make sense of it in the distant future. The central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
+At time of writing, I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully. You must provide the DataStore path to the data in a slightly different format than how the path appears on your computer. You should also spend a little time documenting what you are storing so someone (even you) can make sense of it in the distant future. I found that the central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
 
 ## Sharepoint
 
 **What is it?**
 
-Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
+Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that are being worked on collaboratively with a group of people such as a Team, Project or Department with real time syncing of the file across editors. For example, this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Even more so than OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
 
 ## DataSync
 
