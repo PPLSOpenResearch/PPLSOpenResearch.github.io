@@ -19,7 +19,7 @@ nav_order: 2
 
 ---
 
-# In house services
+# "In house" options
 
 ## DataStore
 
@@ -113,7 +113,7 @@ Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 [DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. Unfortunately in this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
 
 
-# Third party services
+# "Third-party" services
 
 ## Open Science Framework (OSF)
 
