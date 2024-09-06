@@ -12,7 +12,7 @@ nav_order: 2
 
 The following is intended as a simple guide on how store research data while working or studying in PPLS. The guide's primary goal is to ensure that Principal Investigators, and any other researchers responsible for data, maintain a "golden copy" of their data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
 
-Beyond this, I highlight various reasonable options for sharing actively working on data, and highlight why a number of widely used storage options (toward the bottom of the page) are inappropriate.
+Beyond this, I highlight various reasonable options for sharing, and actively working on data, and highlight why a number of widely used storage options (toward the bottom of the page) are inappropriate.
 
 **Too Long; Didn't Read:** If in doubt, archive your research data on the DataStore network drive.
 
