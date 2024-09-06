@@ -34,15 +34,12 @@ Beyond this, I highlight various reasonable options for sharing, and actively wo
 
 ## DataStore
 
-The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code.
+The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code. At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient for their needs. Plans are in discussion to substantially increase this default allowance.
 
-At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient for their needs (plans are in motion to substantially increase this default allowance).
-
-PPLS also creates & manages group spaces, so If you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members and is an equally good place to keep research data.
+PPLS also creates & manages group spaces. So, f you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members. Your lab's group space is an equally good place to keep research data.
 
 
-**How to get started?**
-
+**How to get started?**s
 
 If your computer is managed by the university and runs Windows, DataStore should already appear as the “M:\\” drive.
 
@@ -140,9 +137,15 @@ As a third party, your link might not be freely available in the long term. The 
 
 ## Github
 
-Github is great for code but you can’t really keep much data in a Github repository. At time of writing there was a 100Gb limit on repository sizes, and the workflow of pushing and pulling changes to the cloud is not really geared for working with large files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. However it is the industry standard for version control of large coding projects.
+**The good**
 
+Github is great for sharing code. It is the industry standard for version control of large coding projects. 
 If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
+
+
+**The bad**
+You cannot keep much data in a Github repository. At time of writing there is a 100Gb limit on repository sizes. Furthermore, the workflow of manually pushing, pulling, and merging changes to the cloud is not really geared for working with large data files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. 
+
 
 ## Dropbox
 
