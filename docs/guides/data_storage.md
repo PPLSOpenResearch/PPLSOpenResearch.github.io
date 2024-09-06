@@ -10,9 +10,9 @@ nav_order: 2
 
 *Created by Neil Bramley on Sept 6, 2024*
 
-The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The primary emphasis is on ensuring that a "golden copy" of any data you are responsible is stored somewhere safe, where it will definitely not be lost, inappropriately leaked, sold or monetised.  Beyond this I highlight various options for sharing and actively working on data, further down the page.
+The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The guide's primary goal is on ensuring that those responsible for data ensure they have a "golden copy" of that data stored somewhere safe and preferrably "in house, where it will definitely not be lost, inappropriately leaked, sold, or monetised by third parties.  Beyond this, I highlight various reasonable options for sharing and actively working on data.
 
-**Too long; Didn't read summary:** If in doubt, archive your research data on the DataStore network drive.
+**Too Long; Didn't Read:** If in doubt, archive your research data on the DataStore network drive.
 
 <details open markdown="block">
   <summary>
