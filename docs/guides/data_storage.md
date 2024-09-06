@@ -30,11 +30,12 @@ At time of writing, staff members get a folder of their own with a default alloc
 PPLS also creates & manages group spaces, so If you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members and is an equally good place to keep research data.
 
 For example, I (Neil Bramley) keep my archived research data in:  
-> smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley   
+> smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley 
+
 I maintain an original copy of data generated in my lab in:  
 > smb://chss.datastore.ed.ac.uk/chss/ppls/groups/bramleyccslab.
 
-### How to get started?
+**How to get started?**
 
 Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) – For this to work, you have to be connected to campus wifi or ethernet or to the university’s [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn).
 
@@ -98,7 +99,7 @@ At time of writing, I found the first time you create a vault, there are a coupl
 
 Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. [This](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business) is a useful link if you have any difficulty with this. In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
 
-![](assets/images/onedrive_sharepoint.png)
+![](/assets/images/onedrive_sharepoint.png)
 
 **However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of research data\!** When researchers move on from the university their OneDrive gets deleted. There have been instances of data loss through the practice of keeping data on OneDrive. Please do not do this\!
 
