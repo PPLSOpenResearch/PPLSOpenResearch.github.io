@@ -10,7 +10,7 @@ nav_order: 2
 
 *Created by Neil Bramley on Sept 6, 2024*
 
-The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The guide's primary goal is on ensuring that those responsible for data ensure they have a "golden copy" of that data stored somewhere safe and preferrably "in house, where it will definitely not be lost, inappropriately leaked, sold, or monetised by third parties.  Beyond this, I highlight various reasonable options for sharing and actively working on data.
+The following is intended as a simple guide as to where to store your research data while working or studying in PPLS. The guide's primary goal is on ensuring that those responsible for data ensure they have a "golden copy" of that data stored somewhere safe and preferrably "in house, where it will definitely not be lost, inappropriately leaked, sold, or monetised by third parties.  Beyond this, I highlight various reasonable options for sharing and actively working on data, and highlight why, in my view, other common options are inappropriate (near the bottom of the page) .
 
 **Too Long; Didn't Read:** If in doubt, archive your research data on the DataStore network drive.
 
@@ -138,7 +138,7 @@ As a third party, your link might not be freely available in the long term. The 
 
 ## Github
 
-Github is great for code but you can’t really keep much data in a github repository. At time of writing there was a 100Gb limit on repository sizes, and the workflow of pushing and pulling changes to the cloud is not really geared for working with large files. Repositories are, by default, publically accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. However it is the industry standard for version control of large coding projects.
+Github is great for code but you can’t really keep much data in a Github repository. At time of writing there was a 100Gb limit on repository sizes, and the workflow of pushing and pulling changes to the cloud is not really geared for working with large files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. However it is the industry standard for version control of large coding projects.
 
 If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
 
