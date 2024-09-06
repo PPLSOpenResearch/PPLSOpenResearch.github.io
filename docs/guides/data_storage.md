@@ -5,7 +5,7 @@ parent: Guides
 nav_order: 2
 ---
 
-# Where to store your data and code
+# Where to store your research data and code
 {: .no_toc }
 
 *Created by Neil Bramley on Sept 6, 2024*
