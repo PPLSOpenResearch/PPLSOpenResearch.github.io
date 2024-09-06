@@ -2,7 +2,7 @@
 layout: default
 title: Reproducible workflow
 parent: Guides
-nav_order: 5
+nav_order: 6
 ---
 
 # Reproducible Workflow

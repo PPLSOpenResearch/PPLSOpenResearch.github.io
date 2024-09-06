@@ -2,7 +2,7 @@
 layout: default
 title: Open Access publication
 parent: Guides
-nav_order: 6
+nav_order: 7
 ---
 
 # Open Access Publication
