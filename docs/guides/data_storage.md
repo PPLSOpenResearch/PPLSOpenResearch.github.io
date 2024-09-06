@@ -34,7 +34,7 @@ The following is intended as a simple guide as to where to store your research d
 
 The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code.
 
-At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient for their needs.
+At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient for their needs (plans are in motion to substantially increase this default allowance).
 
 PPLS also creates & manages group spaces, so If you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members and is an equally good place to keep research data.
 
@@ -60,7 +60,7 @@ To request access if you do not have a space already, or to add users to your la
 
 **The good**
 
-It’s bombproof: Data you put here is triple backed up, so very safe from loss, and accessible to the research team and appropriate administrators only, both on and off campus.
+It is bombproof. Data you put here is triple backed up, so very safe from loss, and accessible to the research team and appropriate administrators only, both on and off campus.
 
 It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term "cold storage". 
 
