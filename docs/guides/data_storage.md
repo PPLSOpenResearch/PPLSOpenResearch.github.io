@@ -2,7 +2,7 @@
 layout: default
 title: Data storage
 parent: Guides
-nav_order: 5
+nav_order: 2
 ---
 
 # Data Storage

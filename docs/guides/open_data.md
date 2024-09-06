@@ -2,7 +2,7 @@
 layout: default
 title: Open research data
 parent: Guides
-nav_order: 4
+nav_order: 5
 ---
 
 # Open Research Data and Materials
