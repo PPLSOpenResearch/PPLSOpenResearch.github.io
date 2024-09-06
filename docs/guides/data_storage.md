@@ -63,6 +63,22 @@ It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for 
 
 It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write data while you are actively working on it. Think of it instead as the place to house golden copy data so you never have to worry about losing it.
 
+## OneDrive
+
+**What is it?**
+
+Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. [This](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business) is a useful link if you have any difficulty with this. In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
+
+![](/assets/images/onedrive_sharepoint.png)
+
+**However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of research data\!** When researchers move on from the university their OneDrive gets deleted. There have been instances of data loss through the practice of keeping data on OneDrive. Please do not do this\!
+
+## Sharepoint
+
+**What is it?**
+
+Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
+
 ## DataShare
 
 **What is it?**
@@ -95,25 +111,6 @@ At time of writing, I found the first time you create a vault, there are a coupl
 
 [DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. Unfortunately in this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
 
-## OneDrive
-
-**What is it?**
-
-Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. [This](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business) is a useful link if you have any difficulty with this. In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
-
-![](/assets/images/onedrive_sharepoint.png)
-
-**However, OneDrive is not an appropriate place for keeping the ‘primary’ or  ‘golden copy’ of research data\!** When researchers move on from the university their OneDrive gets deleted. There have been instances of data loss through the practice of keeping data on OneDrive. Please do not do this\!
-
-## Sharepoint
-
-**What is it?**
-
-Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
-
-## Your own laptop or your own external hard drive or USB drive
-
-According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): You should encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* **Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly so fall far short of the university’s triple-backed up network drive as a place for safekeeping data.
 
 # Third party services
 
@@ -145,6 +142,9 @@ Github is great for code but you can’t really keep much data in a github repos
 
 If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
 
+## Your own laptop or your own external hard drive or USB drive
+
+According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): You should encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* **Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly so fall far short of the university’s triple-backed up network drive as a place for safekeeping data.
 
 ---
 
