@@ -87,21 +87,21 @@ When researchers and students move on from Edinburgh university or change roles,
 
 **What is it?**
 
-[DataShare](https://datashare.ed.ac.uk/) is a University-managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional. After you upload a central collection curation team will double check everything looks good before the link goes live.
+[DataShare](https://datashare.ed.ac.uk/) is a University-managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb if you emailing them). It is an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party open research data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used, but many are optional. After you upload, the central collection curation team will double check everything looks good before the link goes live.
 
 **The good**
 
-This is perhaps the most professional way to provide the general public with access to data collected at Edinburgh. The fact that it is an “in house” service allows for more confidence the link will continue to work for a very long time and never be monetised.
+This is perhaps the most professional way to provide the general public with access to data collected at Edinburgh. The fact that it is an “in house” service allows for some confidence the link will continue to work for a very long time and never be monetised.
 
 **The bad**
 
-The web interface is a little buggy to use, often I get a 503 error and have to reload on first landing. Upload can take about 1 minute per Gb. You have to wait a couple of days for the curation team to check things before you get the live link.
+The web interface is a little buggy to use. I often I get a 503 error on first landing, which disappears when I refresh. I find the upload can take about 1 minute per Gb. You have to wait a couple of days for the curation team to check things before you get the live link.
 
 ## DataVault
 
 While DataStore is appropriate for archiving data for completed projects, there is an additional service [DataVault](https://datavault.ed.ac.uk/) for “cold storage” of large chunks of data for the long term. This allows you to free up space in DataStore for data you are more likely to want to access. At the link above, you can create a DataVault and add folders from DataStore to it. They will then be deposited and become safe to delete from DataStore once you get the confirmation email. At time of writing Vaults for projects under 100Gb are free, and larger vaults may be funded from a prepaid slice purchased by PPLS or paid for by individuals with grant money. When the retention period expires (e.g. a default retention period might be 10 years) the registered owner of the data, or if necessary a delegated IT person, will be contacted about what should be done with it.
 
-Note, in future, a process prompting researchers to move large PPLS-owned datasets to DataVault if they are inactive for a long time may be coordinated by the PPLS IT team.
+Note, if needed in the future, PPLS may implement a procedure for prompting heavy DataStore users to move large inactive datasets to DataVault.
 
 **The good**
 
@@ -158,7 +158,7 @@ Common online data collection third-party services Qualtrics and Testable are cu
 
 ## Your own integral or external hard drives
 
-According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): You should encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* **Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly so fall far short of the university’s triple-backed up network drive as a place for safekeeping data.
+**Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly in the short term and almost inevitably in the medium to long term.  Even multiple external hard drives falls far short of the university’s triple-backed up network drive as a place for safekeeping data. If you do keep data locally, according to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): You should encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* 
 
 ---
 
