@@ -38,27 +38,23 @@ At time of writing, staff members get a folder of their own with a default alloc
 
 PPLS also creates & manages group spaces, so If you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members and is an equally good place to keep research data.
 
-For example, I (Neil Bramley) keep my archived research data in:  
-> smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley 
-
-I maintain an original copy of data generated in my lab in:  
-> smb://chss.datastore.ed.ac.uk/chss/ppls/groups/bramleyccslab.
 
 **How to get started?**
 
-Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) – For this to work, you have to be connected to campus wifi or ethernet or to the university’s [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn).
 
 If your computer is managed by the university and runs Windows, DataStore should already appear as the “M:\\” drive.
 
 If your computer is not managed by the university and runs Windows [follow these instructions to add the drive](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/windows). You will have to be on campus wifi/ethernet or connected to the university [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn). Once it is added, you will be able to navigate to, and create a shortcut to,  your folder as above.
 
-If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). 
+If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). This is easy to do whether or not the computer is university managed (but the instructions differ). In either case you will need to be in-network (on campus or on the VPN).
 
-This is easy to do whether or not the computer is university managed (but the instructions differ). In either case you will need to be in-network (on campus or on the VPN).
+Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) while in network. For example, I (Neil Bramley) keep my archived research data in:  
+> smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley 
+
+I maintain an original copy of data generated in my lab in:  
+> smb://chss.datastore.ed.ac.uk/chss/ppls/groups/bramleyccslab.
 
 If navigating through the DataStore network drive manually, you should see a folder “chss” (college of arts, humanities & social sciences), and within that there is a folder “/ppls”. Within ppls, there is a folder called “users” with a subfolder for every staff member’s unique username. Scroll to find yours and you should be able to add files to this folder (maybe create a shortcut to go straight there). 
-
-Note (on my mac) I find the outer folders can take several minutes to index the first time you navigate through them so be patient and it should speed up once it has indexed.
 
 To request access if you do not have a space already. Or to add users to your lab group, fill in the form [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/request-datastore-access).
 
