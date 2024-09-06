@@ -53,27 +53,27 @@ Note (on my mac) I find the outer folders can take several minutes to index the 
 
 To request access if you do not have a space already. Or to add users to your lab group, fill in the form [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/request-datastore-access).
 
-### The good
+**The good**
 
 It’s bombproof: Data you put here is triple backed up, so very safe from loss accessible both on and off campus
 
 It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term cold storage. 
 
-### The bad
+**The bad**
 
 It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write data while you are actively working on it. Think of it instead as the place to house golden copy data so you never have to worry about losing it.
 
 ## DataShare
 
-### What is it?
+**What is it?**
 
 [DataShare](https://datashare.ed.ac.uk/) is a service for hosting data so it is publicly available at the end of a link. Currently, you can host sharable files up to 20Gb through the interface (or up to 100Gb by emailing them). It is like an in-house equivalent to hosting data on the Open Science Framework, or other 3rd party data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used but many are optional.
 
-### The good
+**The good**
 
 This is perhaps the most professional way to provide the general public with access to data collected at Edinburgh. The fact that it is an “in house” service allows for more confidence the link will continue to work for a very long time and never be monetised.
 
-### The bad
+**The bad**
 
 The web interface is a little buggy to use and upload can take a few minutes.
 
@@ -83,11 +83,11 @@ While DataStore is appropriate for archiving data for completed projects, there 
 
 Note, in future, moving large pieces of PPLS-owned data that have not been needed in a long time to DataVault may be coordinated partly by our IT team.
 
-### The good
+**The good**
 
 Puts data somewhere safe and “out of the way” where it cannot be accidentally deleted and is not using up your disk allocation.
 
-### The bad
+**The bad**
 
 At time of writing, I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully: e.g. you must provide the DataStore path to the data in a slightly different format than the path on your computer. You should also spend a little time documenting what you are storing so someone can make sense of it in the distant future. The central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
 
@@ -97,6 +97,8 @@ At time of writing, I found the first time you create a vault, there are a coupl
 
 ## OneDrive
 
+**What is it?**
+
 Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. [This](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business) is a useful link if you have any difficulty with this. In principle, users can keep up to 1Tb of files in OneDrive and many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
 
 ![](/assets/images/onedrive_sharepoint.png)
@@ -105,11 +107,9 @@ Onedrive is a core part of the University’s current Office 365 ecosystem. Acce
 
 ## Sharepoint
 
-### What is it?
+**What is it?**
 
-Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members.
-
-**Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
+Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that need to be shared or used in collaboration with a group of people such as a Team, Project or Department. E.g. this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Like OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
 
 ## Your own laptop or your own external hard drive or USB drive
 
@@ -119,27 +119,25 @@ According to the [University’s guidance](https://www.ed.ac.uk/sites/default/fi
 
 ## OSF: Open Science Framework
 
-### What is it
+**What is it?**
 
 The [OSF](https://osf.io/), or Open Science Framework, is a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication and also a helpful palace for providing code and data associated with a project.
 
-### The good
+**The good**
 
 Edinburgh currently has a [professional partnership with OSF](https://library.ed.ac.uk/research-support/research-data-service/during/open-research-tools/osf), making it a great and appropriate place for sharing data and code. You can sign in with your University credentials, there is integration with OneDrive. The site runs smoothly and is intuitive to use. You can make your projects public or private, embargo them until a certain date, or create anonymised links to repositories for including supplementary materials with submissions to journals and conferences requiring double blinded reviewing. 
 
-### The bad
+**The bad**
 
 As a third party your link might not be freely available in the long term. The company may go bust or start to monetise in ways that make it a little less of a sure bet than an “in house” option.
 
 ## Dropbox
 
 Dropbox is a widely used service for syncing files across machines (and in the Cloud).  
-The good  
-It can be a useful tool for allowing researchers working on several machines, or several academics keen to work locally on files in the same folder with near-instantaneous synchronisation. For this purpose it works far better than the University’s “in house” DataSync option.
 
-## The bad
+**The good**: It can be a useful tool for allowing researchers working on several machines, or several academics keen to work locally on files in the same folder with near-instantaneous synchronisation. For this purpose it works far better than the University’s “in house” DataSync option.
 
-Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
+**The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
 
 ## Github
 
