@@ -10,11 +10,11 @@ nav_order: 2
 
 *Created by Neil Bramley on Sept 6, 2024*
 
-The following is intended as a simple guide on how store research data while working or studying in PPLS. The guide's primary goal is to ensure that Principal Investigators, and any other researchers responsible for data, maintain a "golden copy" of their data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
+This is intended as a simple guide on storing research data while in PPLS. The guide's primary goal is to ensure Principal Investigators, and any other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
 
-Beyond this, I highlight various reasonable options for sharing, and actively working on data, and highlight why some widely-used storage options (toward the bottom of the page) are inappropriate.
+Beyond this, I highlight various reasonable options for actively working on or sharing data. I also highlight why some widely used storage options (toward the bottom of the page) are inappropriate.
 
-**Too Long; Didn't Read:** If in doubt, archive your research data on the DataStore network drive.
+**Too Long; Didn't Read:** If in doubt, archive your research data on your DataStore network drive!
 
 <details open markdown="block">
   <summary>
@@ -34,18 +34,17 @@ Beyond this, I highlight various reasonable options for sharing, and actively wo
 
 ## DataStore
 
-The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code. At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient for their needs. Plans are in discussion to substantially increase this default allowance.
+The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code. At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient. Plans are in discussion to substantially increase the default allowance.
 
-PPLS also creates & manages group spaces. So, f you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members. Your lab's group space is an equally good place to keep research data.
+PPLS also creates & manages group spaces. So, if you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members. This is an equally good place to keep research data.
 
-
-**How to get started?**s
+**How to get started?**
 
 If your computer is managed by the university and runs Windows, DataStore should already appear as the “M:\\” drive.
 
-If your computer is not managed by the university and runs Windows [follow these instructions to add the drive](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/windows). You will have to be on campus wifi/ethernet or connected to the university [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn). Once it is added, you will be able to navigate to, and create a shortcut to,  your folder as above.
+If your computer is not managed by the university and runs Windows [follow these instructions to add the drive](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/windows). You will have to be on campus wifi/ethernet or connected to the university [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn). Once it is added, you will be able to navigate to, and create a shortcut to your folder as above.
 
-If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). This is easy to do whether or not the computer is university managed (but the instructions differ). In either case you will need to be in-network (on campus or on the VPN).
+If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). This is easy to do whether or not the computer is university managed (but the instructions differ). In either case you will need to be in-network (on campus or on the VPN) to set up and to access the drive.
 
 Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) while in network. For example, I (Neil Bramley) keep my archived research data in:  
 > smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley 
@@ -53,7 +52,7 @@ Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.
 I maintain an original copy of data generated in my lab in:  
 > smb://chss.datastore.ed.ac.uk/chss/ppls/groups/bramleyccslab.
 
-If navigating through the DataStore network drive manually, you should see a folder “chss” (college of arts, humanities & social sciences), and within that there is a folder “/ppls”. Within ppls, there is a folder called “users” with a subfolder for every staff member’s unique username. Scroll to find yours and you should be able to add files to this folder (maybe create a shortcut to go straight there). 
+If navigating through the DataStore network drive manually, you should see a folder “chss” (college of arts, humanities & social sciences), and within that there is a folder “/ppls”. Within "/ppls", there is a folder called “users” with a subfolder for every staff member’s unique username. Scroll to find yours and you should be able to add files to this folder (maybe create a shortcut to go straight there). 
 
 To request access if you do not have a space already, or to add users to your lab group, fill in the form [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/request-datastore-access).
 
@@ -65,13 +64,13 @@ It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for 
 
 **The bad**
 
-It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write data while you are actively working on it. Think of it instead as the place to house golden copy data so you never have to worry about losing it.
+It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write data while you are actively working on it. Think of it instead as the place to house data so you never have to worry about losing it.
 
 ## OneDrive
 
 **What is it?**
 
-Onedrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and view it as a network drive similarly to DataStore. More information is available [here](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business). In principle, users can keep up to 1Tb of files in OneDrive and internal surveying shows that many researchers find it a practical place for keeping data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
+OneDrive is a core part of the University’s current Office 365 ecosystem. Access it from the 365 [Dashboard](https://www.office365.ed.ac.uk/) and if on Windows, also view it as a network drive similarly to DataStore. More information is available [here](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365/onedrive-for-business/how-to-access-onedrive-for-business). In principle, users can keep up to 1Tb of files in OneDrive and internal surveying shows that many researchers find OneDrive a practical place to keep data while they are actively working on it due to its integration with university email, Teams and SharePoint, etc. 
 
 **However, OneDrive is not an appropriate place for keeping the ‘primary’ or ‘golden copy’ of your research data\!**
 
@@ -84,7 +83,7 @@ When researchers and students move on from Edinburgh university or change roles,
 
 **What is it?**
 
-[DataShare](https://datashare.ed.ac.uk/) is a University-managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb if you emailing them). It is an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party open research data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used, but many are optional. After you upload, the central collection curation team will double check everything looks good before the link goes live.
+[DataShare](https://datashare.ed.ac.uk/) is a University-managed service for hosting data so it is publicly available at the end of a link. Currently, you can host shareable files up to 20Gb through the interface (or up to 100Gb if you email). It is an in-house equivalent to hosting data on the Open Science Framework, or similar 3rd-party open research data repositories. You will be prompted to provide information about the dataset including links to any publications where it is used, but many are optional. After you upload, the central collection curation team will double check everything looks good before the link goes live.
 
 **The good**
 
@@ -96,9 +95,9 @@ The web interface is a little buggy to use. I often I get a 503 error on first l
 
 ## DataVault
 
-While DataStore is appropriate for archiving data for completed projects, there is an additional service [DataVault](https://datavault.ed.ac.uk/) for “cold storage” of large chunks of data for the long term. This allows you to free up space in DataStore for data you are more likely to want to access. At the link above, you can create a DataVault and add folders from DataStore to it. They will then be deposited and become safe to delete from DataStore once you get the confirmation email. At time of writing Vaults for projects under 100Gb are free, and larger vaults may be funded from a prepaid slice purchased by PPLS or paid for by individuals with grant money. When the retention period expires (e.g. a default retention period might be 10 years) the registered owner of the data, or if necessary a delegated IT person, will be contacted about what should be done with it.
+While DataStore is appropriate for archiving data for completed projects, there is an additional service [DataVault](https://datavault.ed.ac.uk/) for “cold storage” of large chunks of data for the long term. This allows you to free up space in DataStore for data you are more likely to want to access. At the link above, you can create a DataVault and add folders from DataStore to it. They will then be deposited and become safe to delete from DataStore once you get the confirmation email. At time of writing Vaults for projects under 100Gb are free, and larger vaults may be funded from a prepaid slice purchased by PPLS or paid for by individuals with grant money. When the retention period expires (e.g. a default might be 10 years) the registered owner of the data, or if necessary, a delegated IT person, will be contacted about what should be done with it.
 
-Note, if needed in the future, PPLS may implement a procedure for prompting heavy DataStore users to move large inactive datasets to DataVault.
+Note, if needed in the future, PPLS may implement a procedure for prompting users to move their largest or most inactive datasets to DataVault.
 
 **The good**
 
@@ -108,15 +107,15 @@ Puts data somewhere safe and “out of the way” where it cannot be accidentall
 
 I found the first time you create a vault, there are a couple of clunky steps that must be followed carefully. You must provide the DataStore path to the data in a slightly different format than how the path appears on your computer. You should also spend a little time documenting what you are storing so someone (even you) can make sense of it in the distant future. I found that the central Digital Research Services team are happy to help talk first time users through these steps on a Teams call.
 
-## Sharepoint
+## SharePoint
 
 **What is it?**
 
-Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that are being worked on collaboratively with a group of people such as a Team, Project or Department with real time syncing of the file across editors. For example, this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Even more so than OneDrive, Sharepoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
+SharePoint is a part of University of Edinburgh’s Office 365 ecosystem. It is a place for temporarily placing files that are being worked on collaboratively with a group of people such as a Team, Project or Department with real time syncing of the file across editors. For example, this is where an annual review form or a marking spreadsheet might be jointly edited by several researchers or staff members. **Even more so than OneDrive, SharePoint is not an appropriate place for keeping the ‘golden copy’ of research data\!**
 
 ## DataSync
 
-[DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. Unfortunately in this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
+[DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. In this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
 
 
 # Third-party services
@@ -125,11 +124,11 @@ Sharepoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 
 **What is it?**
 
-The [OSF](https://osf.io/), or Open Science Framework, is currently a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication, and also a widely used "repository" for providing open source code and data associated with a publications and research projects.
+The [OSF](https://osf.io/), or Open Science Framework, is currently a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication, and also a widely used "repository" for providing open-source code and data associated with a publications or other research projects.
 
 **The good**
 
-Edinburgh currently has a [professional partnership with OSF](https://library.ed.ac.uk/research-support/research-data-service/during/open-research-tools/osf), making it a wholly appropriate place for sharing data and code (at least for now). You can sign in with your University credentials, there is integration with OneDrive. The site runs smoothly and is intuitive to use. You can make your projects public or private, embargo them until a certain date, or create anonymised links to repositories for including supplementary materials with submissions to journals and conferences requiring double-blinded reviewing. 
+Edinburgh currently has a [professional partnership with OSF](https://library.ed.ac.uk/research-support/research-data-service/during/open-research-tools/osf), making it a wholly appropriate place for sharing data and code (at least for now). You can sign in with your university credentials, there is integration with OneDrive. The site runs smoothly and is intuitive to use. You can make your projects public or private, embargo them until a certain date, or create anonymised links to repositories for including supplementary materials with submissions to journals and conferences requiring double-blinded reviewing. 
 
 **The bad**
 
@@ -140,11 +139,11 @@ As a third party, your link might not be freely available in the long term. The 
 **The good**
 
 Github is great for sharing code. It is the industry standard for version control of large coding projects. 
-If you share research data and code along with a paper it is good practice to to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
+If you share research data and code along with a paper it is good practice to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
 
 
 **The bad**
-You cannot keep much data in a Github repository. At time of writing there is a 100Gb limit on repository sizes. Furthermore, the workflow of manually pushing, pulling, and merging changes to the cloud is not really geared for working with large data files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a fairly high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. 
+You cannot keep much data in a Github repository. At time of writing there is a 100Gb limit per repository. Furthermore, the workflow of manually pushing, pulling, and merging changes to the remote copy is geared for working with code, not large data files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. 
 
 
 ## Dropbox
@@ -157,11 +156,11 @@ Dropbox is a widely used service for syncing files across machines (and in the C
 
 ## On Qualtrics or Testable
 
-Common online data collection third-party services Qualtrics and Testable are currently under professional contracts with Edinburgh University and PPLS respectively. Their business models involve their holding a cloud copy of data you collect through them and encouraging you to draw it down directly from there for your analyses. **Tempting as it is, this is not an appropriate or adequate solution for retaining the ‘golden copy’ of research data.** Please ensure you download a golden copy of any Qualtrics or Testable data and keep it in one of the places described above. It is commonplace to have difficulty reaching graduated students to access data linked to their Qualtrics or Testable accounts. Moreover, as a third party service, when we end our contract with these companies we will lose free access to our own data, and risk its being sold or monetised.
+Common online data collection third-party services Qualtrics and Testable are currently under professional contracts with Edinburgh University and PPLS respectively. Their business models involve their holding a cloud copy of data you collect through them and encouraging you to draw it down directly from there for your analyses. **Tempting as it is, this is not an appropriate or adequate solution for retaining the ‘golden copy’ of research data.** Please ensure you download a golden copy of any Qualtrics or Testable data and keep it in one of the places described above. It is commonplace to have difficulty reaching graduated students to access data linked to their Qualtrics or Testable accounts. Moreover, as a third-party service, when we end our contract with these companies we will lose free access to our own data, and risk its being sold or monetised.
 
 ## Your own integral or external hard drives
 
-**Using your own drives is generally also not an adequate solution for retaining a “golden copy”, “original” or “only copy” of research data.** Drives and laptops fail regularly in the short term and almost inevitably in the medium to long term.  Even multiple external hard drives falls far short of the university’s triple-backed up network drive as a place for safekeeping data. If you do keep any sensitive data locally, according to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): you also need to encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* 
+**Using your own drives is generally also not an adequate solution for retaining a “golden copy”, of research data.** Drives and laptops fail regularly in the short term and almost inevitably in the medium to long term.  Even if you have multiple external hard drives, this falls far short of the university’s network drive DataStore as a place for safekeeping data. If you do keep any sensitive data locally, according to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): you also need to encrypt the drive *“Don’t keep copies of data with personally identifying information on portable media unless safeguards (such as encryption) are used.”* 
 
 ---
 
