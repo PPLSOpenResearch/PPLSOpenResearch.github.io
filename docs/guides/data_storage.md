@@ -10,8 +10,10 @@ nav_order: 2
 *Created by Neil Bramley on Sept 6, 2024, Last updated October 1st 2024*
 
 **Too Long; Didn't Read:**
-_This is the best thing to do_: Keep your research data on your University DataStore network drive.
-_This is the simplest way to do it:_ Just drag and drop it to your folder via File Explorer (Windows, M drive) or the Finder (Mac, Network/chss.datastore.ed.ac.uk/). More details for the curious, on setup and complicated cases below.
+
+_The best thing to do:_ Keep your research data on your University DataStore network drive.
+
+_The simplest way to do it:_ Just drag and drop it to your folder via File Explorer (Windows, M drive) or the Finder (Mac, Network/chss.datastore.ed.ac.uk/). More details for the curious, on setup and complicated cases below.
 
 This is intended as a simple guide on storing research data while in PPLS. The primary goal is to ensure Principal Investigators, and other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  I also highlight various reasonable options for actively working on or sharing data and why other options are inappropriate.
 
