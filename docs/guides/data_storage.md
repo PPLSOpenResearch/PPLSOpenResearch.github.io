@@ -8,13 +8,13 @@ nav_order: 2
 # Where to store your research data and code
 {: .no_toc }
 
-*Created by Neil Bramley on Sept 6, 2024*
+*Created by Neil Bramley on Sept 6, 2024, Last updated October 1st 2024*
 
-This is intended as a simple guide on storing research data while in PPLS. The guide's primary goal is to ensure Principal Investigators, and any other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
+This is intended as a simple guide on storing research data while in PPLS. The primary goal is to ensure Principal Investigators, and other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
 
 Beyond this, I highlight various reasonable options for actively working on or sharing data. I also highlight why some widely used storage options (toward the bottom of the page) are inappropriate.
 
-**Too Long; Didn't Read:** If in doubt, archive your research data on your DataStore network drive!
+**Too Long; Didn't Read:** _This is the best thing to do_: Keep your research data on your University DataStore network drive. _The simplest way to do it:_ Just drag and drop it to your folder via File Explorer (Windows, M drive) or the Finder (Mac, Network/chss.datastore.ed.ac.uk/). More details for the curious, on setup and complicated cases below.
 
 <details open markdown="block">
   <summary>
@@ -34,17 +34,17 @@ Beyond this, I highlight various reasonable options for actively working on or s
 
 ## DataStore
 
-The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code. At time of writing, staff members get a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient. Plans are in discussion to substantially increase the default allowance.
+The university has a network drive “DataStore”. This is the ideal place for PPLS staff and research students to archive a “golden copy” of their primary research data and code. At time of writing, each staff member gets a folder of their own with a default allocation of 500Gb and should contact the IT team if this is insufficient. Plans are in discussion to substantially increase the default allowance.
 
-PPLS also creates & manages group spaces. So, if you run a lab, you can request a group space be created for you and this allows you to pool allocations of group members. This is an equally good place to keep research data.
+PPLS also creates & manages group spaces. So, if you run a lab, you can request a group space be created for you and this also allows the lab to pool allocations of group members. This is an equally good place to keep research data.
 
 **How to get started?**
 
 If your computer is managed by the university and runs Windows, DataStore should already appear as the “M:\\” drive.
 
-If your computer is not managed by the university and runs Windows [follow these instructions to add the drive](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/windows). You will have to be on campus wifi/ethernet or connected to the university [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn). Once it is added, you will be able to navigate to, and create a shortcut to your folder as above.
+If your computer is not managed by the university and runs Windows, [follow these instructions to add the drive](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/windows). You will have to be on campus wifi/ethernet or connected to the university [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn). Once it is added, you will be able to navigate (and create a shortcut) to your folder.
 
-If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). This is easy to do whether or not the computer is university managed (but the instructions differ). In either case you will need to be in-network (on campus or on the VPN) to set up and to access the drive.
+If your computer runs macOS you may need to set the drive up following [these instructions](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage/macos). This is easy to do whether or not your machine is university managed (but the instructions differ). You will need to be in-network (on campus or on the VPN) to set up and to access the drive.
 
 Find the path to your personal space [here](https://myadinfo.is.ed.ac.uk/MyInfo.aspx) while in network. For example, I (Neil Bramley) keep my archived research data in:  
 > smb://chss.datastore.ed.ac.uk/chss/ppls/users/nbramley 
