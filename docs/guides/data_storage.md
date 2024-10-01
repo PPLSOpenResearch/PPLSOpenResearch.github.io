@@ -7,14 +7,15 @@ nav_order: 2
 
 # Where to store your research data and code
 {: .no_toc }
-
 *Created by Neil Bramley on Sept 6, 2024, Last updated October 1st 2024*
 
-This is intended as a simple guide on storing research data while in PPLS. The primary goal is to ensure Principal Investigators, and other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  
+**Too Long; Didn't Read:**
+_This is the best thing to do_: Keep your research data on your University DataStore network drive.
+_This is the simplest way to do it:_ Just drag and drop it to your folder via File Explorer (Windows, M drive) or the Finder (Mac, Network/chss.datastore.ed.ac.uk/). More details for the curious, on setup and complicated cases below.
 
-Beyond this, I highlight various reasonable options for actively working on or sharing data. I also highlight why some widely used storage options (toward the bottom of the page) are inappropriate.
+This is intended as a simple guide on storing research data while in PPLS. The primary goal is to ensure Principal Investigators, and other researchers responsible for data, maintain a "golden copy" of this data somewhere safe and secure, and preferably "in house", where it will not be lost, inappropriately leaked, sold, or monetised by third parties.  I also highlight various reasonable options for actively working on or sharing data and why other options are inappropriate.
 
-**Too Long; Didn't Read:** _This is the best thing to do_: Keep your research data on your University DataStore network drive. _The simplest way to do it:_ Just drag and drop it to your folder via File Explorer (Windows, M drive) or the Finder (Mac, Network/chss.datastore.ed.ac.uk/). More details for the curious, on setup and complicated cases below.
+
 
 <details open markdown="block">
   <summary>
@@ -60,11 +61,11 @@ To request access if you do not have a space already, or to add users to your la
 
 It is bombproof. Data you put here is triple backed up, so very safe from loss, and accessible to the research team and appropriate administrators only, both on and off campus.
 
-It is linked with to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term "cold storage". 
+It is GDPR compliant. It is linked to Edinburgh’s [DataVault](https://datavault.ed.ac.uk/) for long term "cold storage". 
 
 **The bad**
 
-It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write data while you are actively working on it. Think of it instead as the place to house data so you never have to worry about losing it.
+It is sluggish. At least on a Mac, it can take a minute to index the folders when you first navigate to the drive. It can take rather a long time for data to move on or off the drive. For these reasons, it is not the obvious place to read and write to data files while you are actively working on them. Think of it instead as the place to house a “golden copy” of your data so you never have to worry about losing it.
 
 ## OneDrive
 
@@ -115,7 +116,7 @@ SharePoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 
 ## DataSync
 
-[DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. In this author’s view, it is too buggy and slow to be of much practical use, but any positive experiences using DataSync would be welcome.
+[DataSync](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync) is the University’s Dropbox-like service for syncing files between machines. In this author’s view, it is too clunky and slow to be of practical use, but I have heard of at least one colleague who finds it useful.
 
 
 # Third-party services
@@ -124,7 +125,7 @@ SharePoint is a part of University of Edinburgh’s Office 365 ecosystem. It is 
 
 **What is it?**
 
-The [OSF](https://osf.io/), or Open Science Framework, is currently a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication, and also a widely used "repository" for providing open-source code and data associated with a publications or other research projects.
+The [OSF](https://osf.io/), or Open Science Framework, is currently a popular place for pre-registering experiments and analyses, hosting preprints of articles under consideration for publication, and also currently a widely used "repository" for providing open-source code and data associated with a publications or other research projects.
 
 **The good**
 
@@ -132,18 +133,18 @@ Edinburgh currently has a [professional partnership with OSF](https://library.ed
 
 **The bad**
 
-As a third party, your link might not be freely available in the long term. The company may go bust, start to monetise in ways that make it a little less of a sure bet than an “in-house” option.
+As a third party, your link might not be freely available in the long term. The company may go bust, start to monetise in ways that make it less of a sure bet than an “in-house” option.
 
 ## Github
 
 **The good**
 
 Github is great for sharing code. It is the industry standard for version control of large coding projects. 
-If you share research data and code along with a paper it is good practice to use [Zenodo](https://zenodo.org/) to archive a version of record, of your repository, as otherwise the link you provide will point to a folder that may have changed by the time it is viewed.
+If you share research data and code along with a paper it is good practice to use [Zenodo](https://zenodo.org/) to archive the "version of record" of the relevant repositor and provide a link to that. Otherwise the link you provide will point to a folder that may have changed by the time it is viewed, e.g. if you continue to work on the project.
 
 
 **The bad**
-You cannot keep much data in a Github repository. At time of writing there is a 100Gb limit per repository. Furthermore, the workflow of manually pushing, pulling, and merging changes to the remote copy is geared for working with code, not large data files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. 
+You cannot keep much data in a Github repository. At time of writing there is a 100Gb limit per repository. Furthermore, the workflow of manually pushing, pulling, and merging changes to the remote copy is geared for working with code, not large data source files. Repositories are, by default, publicly accessible, so it is easy to expose passwords and private data if you keep project code there. Versioning code with Github requires a high level of tech-savvy, especially when there are multiple people contributing to, or “forking” the same repository. 
 
 
 ## Dropbox
@@ -152,11 +153,11 @@ Dropbox is a widely used service for syncing files across machines (and in the C
 
 **The good**: It can be a useful tool for allowing researchers working on several machines, or several academics keen to work locally on files in the same folder with near-instantaneous synchronisation. For this purpose it works far better than the University’s “in house” DataSync option.
 
-**The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox, **making it a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
+**The bad**: Free-tier Dropbox is too small for most academic users and is not GDPR compliant.  Even with personal premium-tier membership, our understanding as of 2024 is that whenever one shares a research folder with a non-premium member (which is a common use case), the data is no longer GDPR compliant meaning you cannot legally store data containing identifiable information on Dropbox. **This makes Dropbox a poor tool for research data analysis if you have any sensitive or identifiable data.**  According to the [University’s guidance](https://www.ed.ac.uk/sites/default/files/atoms/files/quickguide\_02\_proof01\_0.pdf): *Don’t process research data on cloud services such as Dropbox without seeking advice. Cloud services not under contract to the University may not be stored on a UK or EU server, and may not be GDPR-compliant.*
 
 ## On Qualtrics or Testable
 
-Common online data collection third-party services Qualtrics and Testable are currently under professional contracts with Edinburgh University and PPLS respectively. Their business models involve their holding a cloud copy of data you collect through them and encouraging you to draw it down directly from there for your analyses. **Tempting as it is, this is not an appropriate or adequate solution for retaining the ‘golden copy’ of research data.** Please ensure you download a golden copy of any Qualtrics or Testable data and keep it in one of the places described above. It is commonplace to have difficulty reaching graduated students to access data linked to their Qualtrics or Testable accounts. Moreover, as a third-party service, when we end our contract with these companies we will lose free access to our own data, and risk its being sold or monetised.
+Common online data collection third-party services Qualtrics and Testable are currently under professional contracts with Edinburgh University and PPLS respectively. Their business models involve their holding a cloud copy of data you collect through them and encouraging you to draw it down directly from there for your analyses. **Tempting as it may be, this is not an appropriate or adequate solution for retaining the ‘golden copy’ of research data.** Please ensure you download a golden copy of any Qualtrics or Testable data and keep it in one of the places described above. It is commonplace to have difficulty reaching graduated students to access data linked to their Qualtrics or Testable accounts. Moreover, as a third-party service, when we end our contract with these companies we will lose free access to our own data, and risk its being sold or monetised.
 
 ## Your own integral or external hard drives
 
