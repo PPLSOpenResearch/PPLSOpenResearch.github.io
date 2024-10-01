@@ -2,7 +2,7 @@
 layout: default
 title: Checklist
 parent: Guides
-nav_order: 9
+nav_order: 10
 ---
 
 # Checklist

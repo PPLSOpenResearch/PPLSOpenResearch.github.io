@@ -2,7 +2,7 @@
 layout: default
 title: Online experiments
 parent: Guides
-nav_order: 10
+nav_order: 9
 ---
 
 # Running reproducible experiments online
