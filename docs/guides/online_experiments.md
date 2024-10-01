@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Licensing
+title: Online experiments
 parent: Guides
 nav_order: 10
 ---
